@@ -1,0 +1,953 @@
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000019";"Usuario: 00";
+F2;3;"Articulo";402;1;1
+F2;2;;2;
+_________________
+
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000019";"Usuario: 00";
+F2;3;"Articulo";402;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;;2;
+------------------------------
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000042";"Usuario: 00";
+F2;3;"1/Manzana";402;1;1
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000042";"Usuario: 00";
+F2;3;"1/Manzana";402;1;1
+F2;2;450;1;
+------------------------------
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000050";"Usuario: 00";
+F2;3;"1/Manzana";402;1;20
+F2;2;1000;1;
+F2;2;4000;2;
+F2;2;4005;3;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000050";"Usuario: 00";
+F2;3;"1/Manzana";402;1;20
+F2;2;1000;1;
+F2;2;4000;2;
+F2;2;4005;3;
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000019";"Usuario: 00";
+F2;3;"Articulo";402;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;;2;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+------------------------------
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+------------------------------
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+------------------------------
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+------------------------------
+------------------------------
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000059";"Usuario: 00";
+F2;3;"Articulo";100;1;1
+U4000;1;"3/Producto de Prueba Prod";
+U5;4001;
+U4000;1;"ucto de Prueba Producto d";
+U5;4001;
+U4000;1;"e Prueba Producto de Prue";
+U5;4001;
+U4000;1;"ba ";
+U5;4001;
+F2;2;112;1;
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+F2;1;0;3;"Emitido Por:N&M SUMINISTRO´S, C.A";"Raz/Soc.: GREGORI ANDERSON ARRIECHE GARC";"IA SILVA DE LOS COJELONES ";"Cedula/Rif: V15094257";"Direccion: nananananananananaananananan RUESGA SUR SECTOR 7VEREDA ONCE CASA NUMERO CINCO BARQUISIMETO ESTADO LARRef. Interna: 0000000011";
+F2;3;"Articulo";893;1;1
+U4000;1;"COOPERATIVA LOS SINTECHOS";
+U5;4001;
+------------------------------
+F2;1;0;3;"Emitido Por:N&M SUMINISTRO´S, C.A";"Raz/Soc.: GREGORI ANDERSON ARRIECHE GARC";"IA SILVA DE LOS COJELONES ";"Cedula/Rif: V15094257";"Direccion: nananananananananaananananan RUESGA SUR SECTOR 7VEREDA ONCE CASA NUMERO CINCO BARQUISIMETO ESTADO LARRef. Interna: 0000000011";
+F2;3;"Articulo";893;1;1
+U4000;1;"COOPERATIVA LOS SINTECHOS";
+U5;4001;
+U4000;1;" DE SANTA ROSA
+";
+U5;4001;
+U4000;1;" DEL TUY BARQUISIMETO EST";
+U5;4001;
+U4000;1;"ADO LARA
+";
+U5;4001;
+U4000;1;"";
+U5;4001;
+F2;2;1000;1;
+------------------------------
+F2;1;0;3;"Emitido Por:N&M SUMINISTRO´S, C.A";"Raz/Soc.: GREGORI ANDERSON ARRIECHE GARC";"IA SILVA DE LOS COJELONES ";"Cedula/Rif: V15094257";"Direccion: nananananananananaananananan RUESGA SUR SECTOR 7VEREDA ONCE CASA NUMERO CINCO BARQUISIMETO ESTADO LARRef. Interna: 0000000011";
+F2;3;"Articulo";893;1;1
+U4000;1;"COOPERATIVA LOS SINTECHOS";
+U5;4001;
+U4000;1;" DE SANTA ROSA";
+U5;4001;
+U4000;1;" DEL TUY BARQUISIMETO EST";
+U5;4001;
+U4000;1;"ADO LARA";
+U5;4001;
+U4000;1;"";
+U5;4001;
+F2;2;1000;1;
+------------------------------
+F2;1;0;3;"Emitido Por:N&M SUMINISTRO´S, C.A";"Raz/Soc.: GREGORI ANDERSON ARRIECHE GARC";"IA SILVA DE LOS COJELONES ";"Cedula/Rif: V15094257";"Direccion: nananananananananaananananan RUESGA SUR SECTOR 7VEREDA ONCE CASA NUMERO CINCO BARQUISIMETO ESTADO LARRef. Interna: 0000000011";
+F2;3;"Articulo";893;1;1
+U4000;1;"COOPERATIVA LOS SINTECHOS";
+U5;4001;
+U4000;1;" DE SANTA ROSA";
+U5;4001;
+U4000;1;" DEL TUY BARQUISIMETO EST";
+U5;4001;
+U4000;1;"ADO LARA";
+U5;4001;
+F2;2;1000;1;
+------------------------------
+F2;12;0;3;"Emitido Por:N&M SUMINISTRO`S, C.A";"Raz/Soc.: GREGORI ANDERSON ARRIECHE GARC";"A SILVA DE LOS COJELONES ";"Cedula/Rif: V-15094257";"Ref. Interna: 0000000001";"Factura Asociada: 001234";"Fecha Fac. Asc. 26/11/2012";"Ser. Imp. Fac. Asc. XW60090437";
+F2;3;"PLU 1";10000;1;1
+F2;13
+------------------------------
+F2;12;0;3;"Emitido Por:N&M SUMINISTRO`S, C.A";"Raz/Soc.: GREGORI ANDERSON ARRIECHE GARC";"A SILVA DE LOS COJELONES ";"Cedula/Rif: V-15094257";"Ref. Interna: 0000000001";"Factura Asociada: 001234";"Fecha Fac. Asc. 26/11/2012";"Ser. Imp. Fac. Asc. XW60090437";
+F2;3;"PLU 1";10000;1;1
+F2;13
+------------------------------
+F2;12;0;3;"Emitido Por:N&M SUMINISTRO`S, C.A";"Raz/Soc.: GREGORI ANDERSON ARRIECHE GARC";"A SILVA DE LOS COJELONES ";"Cedula/Rif: V-15094257";"Ref. Interna: 0000000001";"Factura Asociada: 001234";"Fecha Fac. Asc. 26/11/2012";"Ser. Imp. Fac. Asc. XW60090437";
+F2;3;"PLU 1";10000;1;1
+------------------------------
+F2;12;0;3;"Emitido Por:N&M SUMINISTRO`S, C.A";"Raz/Soc.: GREGORI ANDERSON ARRIECHE GARC";"A SILVA DE LOS COJELONES ";"Cedula/Rif: V-15094257";"Ref. Interna: 0000000001";"Factura Asociada: 001234";"Fecha Fac. Asc. 26/11/2012";"Ser. Imp. Fac. Asc. XW60090437";
+F2;3;"PLU 1";10000;1;1
+F2;13
+------------------------------
+F2;12;0;3;"Emitido Por:N&M SUMINISTRO`S, C.A";"Raz/Soc.: GREGORI ANDERSON ARRIECHE GARC";"A SILVA DE LOS COJELONES ";"Cedula/Rif: V-15094257";"Ref. Interna: 0000000001";"Factura Asociada: 001234";"Fecha Fac. Asc. 26/11/2012";"Ser. Imp. Fac. Asc. XW60090437";
+F2;3;"PLU 1";10000;1;1
+F2;13
+------------------------------
+------------------------------
+F2;12;0;3;"Emitido Por:N&M SUMINISTRO`S, C.A";"Raz/Soc.: GREGORI ANDERSON ARRIECHE GARC";"A SILVA DE LOS COJELONES ";"Cedula/Rif: V-15094257";"Ref. Interna: 0000000001";"Factura Asociada: 001234";"Fecha Fac. Asc. 26/11/2012";"Ser. Imp. Fac. Asc. XW60090464";
+F2;3;"PLU 1";10000;1;1
+F2;13
+------------------------------
+F2;12;0;3;"Emitido Por:N&M SUMINISTRO`S, C.A";"Raz/Soc.: GREGORI ANDERSON ARRIECHE GARC";"A SILVA DE LOS COJELONES ";"Cedula/Rif: V-15094257";"Ref. Interna: 0000000001";"Factura Asociada: 001234";"Fecha Fac. Asc. 26/11/2012";"Ser. Imp. Fac. Asc. XW60090464";
+F2;3;"PLU 1";10000;1;1
+F2;13
+------------------------------
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"isima Trinidad y Tobago Blanco Paez Pere";"z Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+F2;3;"1/Manzana";1000;1;1
+F2;13
+------------------------------
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"isima Trinidad y Tobago Blanco Paez Pere";"z Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+F2;3;"1/Manzana";1000;1;1
+F2;13
+------------------------------
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"isima Trinidad y Tobago Blanco Paez Pere";"z Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+F2;3;"1/Manzana";1000;1;1
+F2;13
+------------------------------
+F2;1;0;3;"Emitido Por:N&M SUMINISTRO´S, C.A";"Raz/Soc.: GREGORI ANDERSON ARRIECHE GARC";"IA SILVA DE LOS COJELONES ";"Cedula/Rif: V15094257";"Direccion: nananananananananaananananan RUESGA SUR SECTOR 7VEREDA ONCE CASA NUMERO CINCO BARQUISIMETO ESTADO LARRef. Interna: 0000000011";
+F2;3;"Articulo";893;1;1
+U4000;1;"COOPERATIVA LOS SINTECHOS";
+U5;4001;
+U4000;1;" DE SANTA ROSA";
+U5;4001;
+U4000;1;" DEL TUY BARQUISIMETO EST";
+U5;4001;
+U4000;1;"ADO LARA";
+U5;4001;
+F2;2;999;1;
+------------------------------
+------------------------------
+F2;1;0;3;"Emitido Por:N&M SUMINISTRO´S, C.A";"Raz/Soc.: GREGORI ANDERSON ARRIECHE GARC";"IA SILVA DE LOS COJELONES ";"Cedula/Rif: V15094257";"Direccion: nananananananananaananananan RUESGA SUR SECTOR 7VEREDA ONCE CASA NUMERO CINCO BARQUISIMETO ESTADO LARRef. Interna: 0000000011";
+F2;3;"Articulo";893;1;1
+U4000;1;"COOPERATIVA LOS SINTECHOS";
+U5;4001;
+U4000;1;" DE SANTA ROSA";
+U5;4001;
+U4000;1;" DEL TUY BARQUISIMETO EST";
+U5;4001;
+U4000;1;"ADO LARA";
+U5;4001;
+F2;2;999;1;
+------------------------------
+F2;1;0;3;"Emitido Por:N&M SUMINISTRO´S, C.A";"Raz/Soc.: GREGORI ANDERSON ARRIECHE GARC";"IA SILVA DE LOS COJELONES ";"Cedula/Rif: V15094257";"Direccion: nananananananananaananananan RUESGA SUR SECTOR 7VEREDA ONCE CASA NUMERO CINCO BARQUISIMETO ESTADO LARRef. Interna: 0000000011";
+F2;3;"Articulo";893;1;1
+U4000;1;"COOPERATIVA LOS SINTECHOS";
+U5;4001;
+U4000;1;" DE SANTA ROSA";
+U5;4001;
+U4000;1;" DEL TUY BARQUISIMETO EST";
+U5;4001;
+U4000;1;"ADO LARA";
+U5;4001;
+F2;2;999;1;
+------------------------------
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"isima Trinidad y Tobago Blanco Paez Pere";"z Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+F2;3;"1/Manzana";1000;1;1
+F2;13
+------------------------------
+------------------------------
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+F2;3;"1/Manzana";1000;1;1
+F2;13
+------------------------------
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+F2;3;"1/Manzana";1000;1;1
+F2;13
+------------------------------
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+F2;3;"1/Manzana";1000;1;1
+F2;13
+------------------------------
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+F2;3;"1/Manzana";1000;1;1
+F2;13
+------------------------------
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+F2;3;"1/Manzana";1000;1;1
+F2;13
+------------------------------
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+F2;3;"1/Manzana";1000;1;1
+F2;13
+------------------------------
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+F2;3;"1/Manzana";1000;1;1
+F2;13
+------------------------------
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+F2;3;"1/Manzana";1000;1;1
+F2;13
+------------------------------
+------------------------------
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+F2;3;"1/Manzana";1000;1;1
+F2;13
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+F2;3;"1/Manzana";1000;1;1
+F2;2;1120;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+F2;3;"1/Manzana";1000;1;1
+F2;2;1120;1;
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489Direccion: Cabudare";"Ref. Interna: 0000000028Usuario: 00Emiti";"Raz/Soc.: Andrea Romero Ortega de la San";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+F2;3;"1/Manzana";1000;1;1
+F2;2;1120;1;
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489Direccion: Cabudare";"Ref. Interna: 0000000028Usuario: 00Emiti";"Raz/Soc.: Andrea Romero Ortega de la San";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+F2;3;"1/Manzana";1000;1;1
+F2;2;1120;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+F2;3;"1/Manzana";1000;1;1
+F2;2;1120;1;
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+F2;3;"1/Manzana";1000;1;1
+F2;2;1120;1;
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+F2;3;"1/Manzana";1000;1;1
+F2;2;1120;1;
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+F2;3;"1/Manzana";1000;1;1
+F2;2;1120;1;
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+F2;3;"1/Manzana";1000;1;1
+F2;2;1120;1;
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+F2;3;"1/Manzana";1000;1;1
+F2;2;1120;1;
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+------------------------------
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+F2;3;"1/Manzana";1000;1;1
+F2;2;1120;1;
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+F2;3;"1/Manzana";1000;1;1
+F2;2;1120;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+F2;3;"1/Manzana";1000;1;1
+F2;2;1120;1;
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+F2;3;"1/Manzana";1000;1;1
+F2;2;1120;1;
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+F2;3;"1/Manzana";1000;1;1
+F2;2;1120;1;
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+F2;3;"1/Manzana";1000;1;1
+F2;2;1120;1;
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+------------------------------
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+F2;3;"1/Manzana";1000;1;1
+F2;2;1120;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+F2;3;"1/Manzana";1000;1;1
+F2;2;1120;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+F2;3;"1/Manzana";1000;1;1
+F2;2;1120;1;
+------------------------------
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+F2;3;"1/Manzana";1000;1;1
+F2;2;1120;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+F2;3;"1/Manzana";1000;1;1
+F2;2;1120;1;
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+F2;3;"1/Manzana";1000;1;1
+F2;13

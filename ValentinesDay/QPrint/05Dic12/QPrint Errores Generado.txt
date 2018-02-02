@@ -1,0 +1,11 @@
+Error QP: 17, Fecha: 05/12/2012, Hora: 15:38, Ubicación: NCRegistroProducto
+Error QP: 17, Fecha: 05/12/2012, Hora: 16:09, Ubicación: NCRegistroProducto
+Error QP: 1, Fecha: 05/12/2012, Hora: 16:09, Ubicación: FactDescripcionProducto
+Error QP: 1, Fecha: 05/12/2012, Hora: 16:09, Ubicación: FactDescripcionProducto
+Error QP: 1, Fecha: 05/12/2012, Hora: 16:09, Ubicación: FactDescripcionProducto
+Error QP: 17, Fecha: 05/12/2012, Hora: 16:13, Ubicación: NCRegistroProducto
+Error QP: 1, Fecha: 05/12/2012, Hora: 16:14, Ubicación: FactDescripcionProducto
+Error QP: 17, Fecha: 05/12/2012, Hora: 16:15, Ubicación: NCRegistroProducto
+Error QP: 99, Fecha: 06/12/2012, Hora: 07:07, Ubicación: FactDescripcionProducto
+Error QP: 99, Fecha: 06/12/2012, Hora: 07:07, Ubicación: FactDescripcionProducto
+Error QP: 99, Fecha: 06/12/2012, Hora: 07:07, Ubicación: FactDescripcionProducto

@@ -1,0 +1,559 @@
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Romero Ortega de la Santisima T
+Función SendCmd Status: 0 Error: 0 Comando: i03rinidad y Tobago Cielo de Plata Linda Venezuela
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V123456789
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Cabudare Estado LAra
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 02512547896
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000021
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 4 Error: 0 Comando: 211000000001000
+
+Función SendFileCmd  File: QPrint\RefInterna0000000021.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: LSLSLS
+Función SendCmd Status: 0 Error: 0 Comando: i03Cedula/Rif: 15094257
+Función SendCmd Status: 0 Error: 0 Comando: i04Direccion: SDFSD
+Función SendCmd Status: 0 Error: 0 Comando: i05Telefono: FSD12
+Función SendCmd Status: 0 Error: 0 Comando: i06
+Función SendCmd Status: 0 Error: 0 Comando: i07Usuario: 00
+Función SendCmd Status: 0 Error: 0 Comando: @03/PRODUCTO (22%)
+Función SendCmd Status: 0 Error: 0 Comando: @Ser.
+Función SendCmd Status: 0 Error: 0 Comando: @1
+Función SendCmd Status: 5 Error: 0 Comando: #000000082000001000-->
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001000
+
+Función SendFileCmd  File: QPrint\RefInterna0000000024.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: LSLSLS
+Función SendCmd Status: 0 Error: 0 Comando: i03Cedula/Rif: 15094257
+Función SendCmd Status: 0 Error: 0 Comando: i04Direccion: SDFSD
+Función SendCmd Status: 0 Error: 0 Comando: i05Telefono: FSD12
+Función SendCmd Status: 0 Error: 0 Comando: i06Ref. Interna: 0000000024
+Función SendCmd Status: 0 Error: 0 Comando: i07Usuario: 00
+Función SendCmd Status: 0 Error: 0 Comando: @03/PRODUCTO (22%)
+Función SendCmd Status: 0 Error: 0 Comando: @Ser.
+Función SendCmd Status: 0 Error: 0 Comando: @1
+Función SendCmd Status: 5 Error: 0 Comando: #000000082000001000-->
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001000
+
+Función SendFileCmd  File: QPrint\RefInterna0000000024.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: LSLSLS
+Función SendCmd Status: 0 Error: 0 Comando: i03Cedula/Rif: 15094257
+Función SendCmd Status: 0 Error: 0 Comando: i04Direccion: SDFSD
+Función SendCmd Status: 0 Error: 0 Comando: i05Telefono: FSD12
+Función SendCmd Status: 0 Error: 0 Comando: i06Ref. Interna: 0000000024
+Función SendCmd Status: 0 Error: 0 Comando: i07Usuario: 00
+Función SendCmd Status: 0 Error: 0 Comando: @03/PRODUCTO (22%)
+Función SendCmd Status: 0 Error: 0 Comando: @Ser.
+Función SendCmd Status: 0 Error: 0 Comando: @1
+Función SendCmd Status: 5 Error: 0 Comando: #000000082000001000-->
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001000
+
+Función SendFileCmd  File: QPrint\RefInterna0000000024.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: LSLSLS
+Función SendCmd Status: 0 Error: 0 Comando: i03Cedula/Rif: 15094257
+Función SendCmd Status: 0 Error: 0 Comando: i04Direccion: SDFSD
+Función SendCmd Status: 0 Error: 0 Comando: i05Telefono: FSD12
+Función SendCmd Status: 0 Error: 0 Comando: i06Ref. Interna: 0000000024
+Función SendCmd Status: 0 Error: 0 Comando: i07Usuario: 00
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: LSLSLS
+Función SendCmd Status: 0 Error: 0 Comando: i03Cedula/Rif: 15094257
+Función SendCmd Status: 0 Error: 0 Comando: i04Direccion: SDFSD
+Función SendCmd Status: 0 Error: 0 Comando: i05Telefono: FSD12
+Función SendCmd Status: 0 Error: 0 Comando: i06Ref. Interna: 0000000024
+Función SendCmd Status: 0 Error: 0 Comando: i07Usuario: 00
+Función SendCmd Status: 0 Error: 0 Comando: @03/PRODUCTO (22%)
+Función SendCmd Status: 0 Error: 0 Comando: @Ser.
+Función SendCmd Status: 0 Error: 0 Comando: @1
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: LSLSLS
+Función SendCmd Status: 0 Error: 0 Comando: i03Cedula/Rif: 15094257
+Función SendCmd Status: 0 Error: 0 Comando: i04Direccion: SDFSD
+Función SendCmd Status: 0 Error: 0 Comando: i05Telefono: FSD12
+Función SendCmd Status: 0 Error: 0 Comando: i06Ref. Interna: 0000000024
+Función SendCmd Status: 0 Error: 0 Comando: i07Usuario: 00
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: LSLSLS
+Función SendCmd Status: 0 Error: 0 Comando: i03Cedula/Rif: 15094257
+Función SendCmd Status: 0 Error: 0 Comando: i04Direccion: SDFSD
+Función SendCmd Status: 0 Error: 0 Comando: i05Telefono: FSD12
+Función SendCmd Status: 0 Error: 0 Comando: i06Ref. Interna: 0000000024
+Función SendCmd Status: 0 Error: 0 Comando: i07Usuario: 00
+Función SendCmd Status: 0 Error: 0 Comando: @03/PRODUCTO (22%)
+Función SendCmd Status: 0 Error: 0 Comando: @Ser.
+Función SendCmd Status: 0 Error: 0 Comando: @1
+Función SendCmd Status: 5 Error: 0 Comando: #000000082000001000-->
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001000
+
+Función SendFileCmd  File: QPrint\RefInterna0000000024.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: LUIS JESUS GUTIERREZ
+Función SendCmd Status: 0 Error: 0 Comando: i03Cedula/Rif: V150942574
+Función SendCmd Status: 0 Error: 0 Comando: i04Direccion: BARQUISIEMO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i05Telefono: 02
+Función SendCmd Status: 0 Error: 0 Comando: i06Ref. Interna: 0000000026
+Función SendCmd Status: 0 Error: 0 Comando: i07Usuario: 00
+Función SendCmd Status: 0 Error: 0 Comando: @05/PRODUCTO (CON SERIALES)
+Función SendCmd Status: 0 Error: 0 Comando: @Ser.
+Función SendCmd Status: 0 Error: 0 Comando: @123456789
+Función SendCmd Status: 5 Error: 0 Comando: !000000089300001000-->
+Función SendCmd Status: 5 Error: 0 Comando: @05/PRODUCTO (CON SERIALES)
+Función SendCmd Status: 5 Error: 0 Comando: @Ser.
+Función SendCmd Status: 5 Error: 0 Comando: @987654321
+Función SendCmd Status: 5 Error: 0 Comando: !000000089300001000-->
+Función SendCmd Status: 4 Error: 0 Comando: 201000000002000
+
+Función SendFileCmd  File: QPrint\RefInterna0000000026.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: LUIS JESUS GUTIERREZ
+Función SendCmd Status: 0 Error: 0 Comando: i03Cedula/Rif: V150942574
+Función SendCmd Status: 0 Error: 0 Comando: i04Direccion: BARQUISIEMO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i05Telefono: 02
+Función SendCmd Status: 0 Error: 0 Comando: i06Ref. Interna: 0000000029
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: p-4994
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000501
+
+Función SendFileCmd  File: QPrint\RefInterna0000000029.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: LUIS JESUS GUTIERREZ
+Función SendCmd Status: 0 Error: 0 Comando: i03Cedula/Rif: V150942574
+Función SendCmd Status: 0 Error: 0 Comando: i04Direccion: BARQUISIEMO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i05Telefono: 02
+Función SendCmd Status: 0 Error: 0 Comando: i06Ref. Interna: 0000000030
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: "00000009260000100002/PRODUCTO (8%)
+Función SendCmd Status: 5 Error: 0 Comando: @03/PRODUCTO (22%)
+Función SendCmd Status: 5 Error: 0 Comando: @Ser.
+Función SendCmd Status: 5 Error: 0 Comando: @3
+Función SendCmd Status: 5 Error: 0 Comando: #000000082000001000-->
+Función SendCmd Status: 0 Error: 0 Comando: 3
+Función SendCmd Status: 5 Error: 0 Comando: p-3335
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001999
+
+Función SendFileCmd  File: QPrint\RefInterna0000000030.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: LUIS JESUS GUTIERREZ
+Función SendCmd Status: 0 Error: 0 Comando: i03Cedula/Rif: V150942574
+Función SendCmd Status: 0 Error: 0 Comando: i04Direccion: BARQUISIEMO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i05Telefono: 02
+Función SendCmd Status: 0 Error: 0 Comando: i06Ref. Interna: 0000000029
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: p-4994
+Función SendCmd Status: 5 Error: 0 Comando: 201000000000501
+
+Función SendFileCmd  File: QPrint\RefInterna0000000029.dat Status: 5 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: LUIS JESUS GUTIERREZ
+Función SendCmd Status: 0 Error: 0 Comando: i03Cedula/Rif: V150942574
+Función SendCmd Status: 0 Error: 0 Comando: i04Direccion: BARQUISIEMO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i05Telefono: 02
+Función SendCmd Status: 0 Error: 0 Comando: i06Ref. Interna: 0000000029
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: p-4994
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000501
+
+Función SendFileCmd  File: QPrint\RefInterna0000000029.dat Status: 4 Error: 0
+Función SendCmd Status: 4 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 4 Error: 0 Comando: i02Raz/Soc.: LUIS JESUS GUTIERREZ
+Función SendCmd Status: 4 Error: 0 Comando: i03Cedula/Rif: V150942574
+Función SendCmd Status: 4 Error: 0 Comando: i04Direccion: BARQUISIEMO EDO LARA
+Función SendCmd Status: 4 Error: 0 Comando: i05Telefono: 02
+Función SendCmd Status: 4 Error: 0 Comando: i06Ref. Interna: 0000000030
+Función SendCmd Status: 4 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 4 Error: 0 Comando: "00000009260000100002/PRODUCTO (8%)
+Función SendCmd Status: 4 Error: 0 Comando: @03/PRODUCTO (22%)
+Función SendCmd Status: 4 Error: 0 Comando: @Ser.
+Función SendCmd Status: 4 Error: 0 Comando: @3
+Función SendCmd Status: 4 Error: 0 Comando: #000000082000001000-->
+Función SendCmd Status: 4 Error: 0 Comando: 3
+Función SendCmd Status: 4 Error: 0 Comando: p-3335
+Función SendCmd Status: 4 Error: 92 Comando: 201000000001999
+
+Función SendFileCmd  File: QPrint\RefInterna0000000030.dat Status: 4 Error: 92
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: LUIS JESUS GUTIERREZ
+Función SendCmd Status: 0 Error: 0 Comando: i03Cedula/Rif: V150942574
+Función SendCmd Status: 0 Error: 0 Comando: i04Direccion: BARQUISIEMO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i05Telefono: 02
+Función SendCmd Status: 0 Error: 0 Comando: i06Ref. Interna: 0000000029
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+------------------------------
+Función SendCmd Status: 5 Error: 0 Comando: p+4994
+Función SendCmd Status: 5 Error: 0 Comando: 201000000000501
+
+Función SendFileCmd  File: QPrint\RefInterna0000000029.dat Status: 5 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: LUIS JESUS GUTIERREZ
+Función SendCmd Status: 0 Error: 0 Comando: i03Cedula/Rif: V150942574
+Función SendCmd Status: 0 Error: 0 Comando: i04Direccion: BARQUISIEMO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i05Telefono: 02
+Función SendCmd Status: 0 Error: 0 Comando: i06Ref. Interna: 0000000029
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: p+4994
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: LUIS JESUS GUTIERREZ
+Función SendCmd Status: 0 Error: 0 Comando: i03Cedula/Rif: V150942574
+Función SendCmd Status: 0 Error: 0 Comando: i04Direccion: BARQUISIEMO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i05Telefono: 02
+Función SendCmd Status: 0 Error: 0 Comando: i06Ref. Interna: 0000000029
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: p-4994
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000501
+
+Función SendFileCmd  File: QPrint\RefInterna0000000029.dat Status: 4 Error: 0
+Función SendCmd Status: 4 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 4 Error: 0 Comando: i02Raz/Soc.: LUIS JESUS GUTIERREZ
+Función SendCmd Status: 4 Error: 0 Comando: i03Cedula/Rif: V150942574
+Función SendCmd Status: 4 Error: 0 Comando: i04Direccion: BARQUISIEMO EDO LARA
+Función SendCmd Status: 4 Error: 0 Comando: i05Telefono: 02
+Función SendCmd Status: 4 Error: 0 Comando: i06Ref. Interna: 0000000030
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: "00000009260000100002/PRODUCTO (8%)
+Función SendCmd Status: 5 Error: 0 Comando: @03/PRODUCTO (22%)
+Función SendCmd Status: 5 Error: 0 Comando: @Ser.
+Función SendCmd Status: 5 Error: 0 Comando: @3
+Función SendCmd Status: 5 Error: 0 Comando: #000000082000001000-->
+Función SendCmd Status: 0 Error: 0 Comando: 3
+Función SendCmd Status: 5 Error: 0 Comando: p-3335
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001999
+
+Función SendFileCmd  File: QPrint\RefInterna0000000030.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: LUIS JESUS GUTIERREZ
+Función SendCmd Status: 0 Error: 0 Comando: i03Cedula/Rif: V150942574
+Función SendCmd Status: 0 Error: 0 Comando: i04Direccion: BARQUISIEMO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i05Telefono: 02
+Función SendCmd Status: 0 Error: 0 Comando: i06Ref. Interna: 0000000029
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: p-4994
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000501
+
+Función SendFileCmd  File: QPrint\RefInterna0000000029.dat Status: 4 Error: 0
+Función SendCmd Status: 4 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 4 Error: 0 Comando: i02Raz/Soc.: LUIS JESUS GUTIERREZ
+Función SendCmd Status: 4 Error: 0 Comando: i03Cedula/Rif: V150942574
+Función SendCmd Status: 4 Error: 0 Comando: i04Direccion: BARQUISIEMO EDO LARA
+Función SendCmd Status: 4 Error: 0 Comando: i05Telefono: 02
+Función SendCmd Status: 4 Error: 0 Comando: i06Ref. Interna: 0000000030
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: "00000009260000100002/PRODUCTO (8%)
+Función SendCmd Status: 5 Error: 0 Comando: @03/PRODUCTO (22%)
+Función SendCmd Status: 5 Error: 0 Comando: @Ser.
+Función SendCmd Status: 5 Error: 0 Comando: @3
+Función SendCmd Status: 5 Error: 0 Comando: #000000082000001000-->
+Función SendCmd Status: 0 Error: 0 Comando: 3
+Función SendCmd Status: 5 Error: 0 Comando: p-3335
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001999
+
+Función SendFileCmd  File: QPrint\RefInterna0000000030.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 4 Error: 0 Comando: I0Z
+Función ReadFpStatus Status: 4 Error: 0 ErrorQPrint: 0
+
+Función UploadStatusCmd Comando: S1 File: C:\dll\Status1.txt Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función ReadFpStatus Status: 4 Error: 0 ErrorQPrint: 0
+
+Función UploadStatusCmd Comando: S1 File: C:\dll\Status1.txt Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: LUIS JESUS GUTIERREZ
+Función SendCmd Status: 0 Error: 0 Comando: i03Cedula/Rif: V150942574
+Función SendCmd Status: 0 Error: 0 Comando: i04Direccion: BARQUISIEMO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i05Telefono: 02
+Función SendCmd Status: 0 Error: 0 Comando: i06Ref. Interna: 0000000042
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 0 Error: 0 Comando: 3
+Función SendCmd Status: 5 Error: 0 Comando: p-1665
+Función SendCmd Status: 4 Error: 0 Comando: 201000000002501
+
+Función SendFileCmd  File: QPrint\RefInterna0000000042.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: LUIS JESUS GUTIERREZ
+Función SendCmd Status: 0 Error: 0 Comando: i03Cedula/Rif: V150942574
+Función SendCmd Status: 0 Error: 0 Comando: i04Direccion: BARQUISIEMO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i05Telefono: 02
+Función SendCmd Status: 0 Error: 0 Comando: i06Ref. Interna: 0000000042
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 0 Error: 0 Comando: 3
+Función SendCmd Status: 5 Error: 0 Comando: p-1665
+Función SendCmd Status: 4 Error: 0 Comando: 201000000002501
+
+Función SendFileCmd  File: QPrint\RefInterna0000000042.dat Status: 4 Error: 0
+Función SendCmd Status: 4 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 4 Error: 0 Comando: i02Raz/Soc.: LUIS JESUS GUTIERREZ
+Función SendCmd Status: 4 Error: 0 Comando: i03Cedula/Rif: V150942574
+Función SendCmd Status: 4 Error: 0 Comando: i04Direccion: BARQUISIEMO EDO LARA
+Función SendCmd Status: 4 Error: 0 Comando: i05Telefono: 02
+Función SendCmd Status: 4 Error: 0 Comando: i06Ref. Interna: 0000000043
+Función SendCmd Status: 4 Error: 0 Comando: @06/NOMBRE DEL PRODUCTO NOMBRE DEL PRODU
+Función SendCmd Status: 4 Error: 0 Comando: @CTO NOMBRE DEL PRODUCTO NOMBRE DEL PROD
+Función SendCmd Status: 5 Error: 0 Comando: !000000089300001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001000
+
+Función SendFileCmd  File: QPrint\RefInterna0000000043.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: LUIS JESUS GUTIERREZ
+Función SendCmd Status: 0 Error: 0 Comando: i03Cedula/Rif: V150942574
+Función SendCmd Status: 0 Error: 0 Comando: i04Direccion: BARQUISIEMO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i05Telefono: 02
+Función SendCmd Status: 0 Error: 0 Comando: i06Ref. Interna: 0000000042
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 0 Error: 0 Comando: 3
+Función SendCmd Status: 5 Error: 0 Comando: p-1665
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: LUIS JESUS GUTIERREZ
+Función SendCmd Status: 0 Error: 0 Comando: i03Cedula/Rif: V150942574
+Función SendCmd Status: 0 Error: 0 Comando: i04Direccion: BARQUISIEMO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i05Telefono: 02
+Función SendCmd Status: 0 Error: 0 Comando: i06Ref. Interna: 0000000042
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 0 Error: 0 Comando: 3
+Función SendCmd Status: 5 Error: 0 Comando: p-1665
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: LUIS JESUS GUTIERREZ
+Función SendCmd Status: 0 Error: 0 Comando: i03Cedula/Rif: V150942574
+Función SendCmd Status: 0 Error: 0 Comando: i04Direccion: BARQUISIEMO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i05Telefono: 02
+Función SendCmd Status: 0 Error: 0 Comando: i06Ref. Interna: 0000000042
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 0 Error: 0 Comando: 3
+Función SendCmd Status: 5 Error: 0 Comando: p-1665
+Función SendCmd Status: 4 Error: 0 Comando: 201000000002600
+
+Función SendFileCmd  File: QPrint\RefInterna0000000042.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: LUIS JESUS GUTIERREZ
+Función SendCmd Status: 0 Error: 0 Comando: i03Cedula/Rif: V150942574
+Función SendCmd Status: 0 Error: 0 Comando: i04Direccion: BARQUISIEMO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i05Telefono: 02
+Función SendCmd Status: 0 Error: 0 Comando: i06Ref. Interna: 0000000042
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 0 Error: 0 Comando: 3
+Función SendCmd Status: 5 Error: 0 Comando: p-1665
+Función SendCmd Status: 4 Error: 0 Comando: 201000000002600
+
+Función SendFileCmd  File: QPrint\RefInterna0000000042.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: LUIS JESUS GUTIERREZ
+Función SendCmd Status: 0 Error: 0 Comando: i03Cedula/Rif: V150942574
+Función SendCmd Status: 0 Error: 0 Comando: i04Direccion: BARQUISIEMO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i05Telefono: 02
+Función SendCmd Status: 0 Error: 0 Comando: i06Ref. Interna: 0000000042
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 0 Error: 0 Comando: 3
+Función SendCmd Status: 5 Error: 0 Comando: p-1665
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: LUIS JESUS GUTIERREZ
+Función SendCmd Status: 0 Error: 0 Comando: i03Cedula/Rif: V150942574
+Función SendCmd Status: 0 Error: 0 Comando: i04Direccion: BARQUISIEMO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i05Telefono: 02
+Función SendCmd Status: 0 Error: 0 Comando: i06Ref. Interna: 0000000042
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 0 Error: 0 Comando: 3
+Función SendCmd Status: 5 Error: 0 Comando: p-1665
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: LUIS JESUS GUTIERREZ
+Función SendCmd Status: 0 Error: 0 Comando: i03Cedula/Rif: V150942574
+Función SendCmd Status: 0 Error: 0 Comando: i04Direccion: BARQUISIEMO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i05Telefono: 02
+Función SendCmd Status: 0 Error: 0 Comando: i06Ref. Interna: 0000000042
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 0 Error: 0 Comando: 3
+Función SendCmd Status: 5 Error: 0 Comando: p-1665
+Función SendCmd Status: 5 Error: 0 Comando: 201000000002495
+
+Función SendFileCmd  File: QPrint\RefInterna0000000042.dat Status: 5 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: LUIS JESUS GUTIERREZ
+Función SendCmd Status: 0 Error: 0 Comando: i03Cedula/Rif: V150942574
+Función SendCmd Status: 0 Error: 0 Comando: i04Direccion: BARQUISIEMO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i05Telefono: 02
+Función SendCmd Status: 0 Error: 0 Comando: i06Ref. Interna: 0000000042
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 0 Error: 0 Comando: 3
+Función SendCmd Status: 5 Error: 0 Comando: p-1665
+Función SendCmd Status: 4 Error: 0 Comando: 201000000002501
+
+Función SendFileCmd  File: QPrint\RefInterna0000000042.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000019
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !000001000000001000PLU 1
+Función SendCmd Status: 5 Error: 0 Comando: !000001000000001000PLU 2
+Función SendCmd Status: 5 Error: 0 Comando: !000001000000001000PLU 3
+Función SendCmd Status: 5 Error: 0 Comando: !000001000000001000PLU 4
+Función SendCmd Status: 5 Error: 0 Comando: 201000000020000
+Función SendCmd Status: 5 Error: 0 Comando: 205000000010000
+Función SendCmd Status: 5 Error: 0 Comando: 209000000010000
+Función SendCmd Status: 4 Error: 0 Comando: 213000000004800
+
+Función SendFileCmd  File: archivo11.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: LUIS JESUS GUTIERREZ
+Función SendCmd Status: 0 Error: 0 Comando: i03Cedula/Rif: V150942574
+Función SendCmd Status: 0 Error: 0 Comando: i04Direccion: BARQUISIEMO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i05Telefono: 02
+Función SendCmd Status: 0 Error: 0 Comando: i06Ref. Interna: 0000000042
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO 
+Función SendCmd Status: 0 Error: 0 Comando: 3
+Función SendCmd Status: 5 Error: 0 Comando: p-1665
+Función SendCmd Status: 4 Error: 0 Comando: 201000000002501
+
+Función SendFileCmd  File: QPrint\RefInterna0000000042.dat Status: 4 Error: 0
+Función SendCmd Status: 4 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 4 Error: 0 Comando: i02Raz/Soc.: LUIS JESUS GUTIERREZ
+Función SendCmd Status: 4 Error: 0 Comando: i03Cedula/Rif: V150942574
+Función SendCmd Status: 4 Error: 0 Comando: i04Direccion: BARQUISIEMO EDO LARA
+Función SendCmd Status: 4 Error: 0 Comando: i05Telefono: 02
+Función SendCmd Status: 4 Error: 0 Comando: i06Ref. Interna: 0000000043
+Función SendCmd Status: 4 Error: 0 Comando: @06/NOMBRE DEL PRODUCTO NOMBRE DEL PRODU
+Función SendCmd Status: 4 Error: 0 Comando: @CTO NOMBRE DEL PRODUCTO NOMBRE DEL PROD
+Función SendCmd Status: 5 Error: 0 Comando: !000000089300001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001000
+
+Función SendFileCmd  File: QPrint\RefInterna0000000043.dat Status: 4 Error: 0
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 92 Comando: !000002000000001000Nombre Articulo 1
+Función SendCmd Status: 0 Error: 92 Comando: !000002000000001000Nombre Articulo 2
+Función SendCmd Status: 0 Error: 92 Comando: 101
+Función ReadFpStatus Status: 0 Error: 0 ErrorQPrint: -1
+
+Función UploadStatusCmd Comando: S1 File: C:\dll\Status1.txt Status: 0 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 92 Comando: !000002000000001000Nombre Articulo 1
+Función SendCmd Status: 0 Error: 92 Comando: !000002000000001000Nombre Articulo 2
+Función SendCmd Status: 0 Error: 92 Comando: 101
+Función ReadFpStatus Status: 0 Error: 0 ErrorQPrint: -1
+
+Función UploadStatusCmd Comando: S1 File: C:\dll\Status1.txt Status: 0 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 92 Comando: !000002000000001000Nombre Articulo 1
+Función SendCmd Status: 0 Error: 92 Comando: !000002000000001000Nombre Articulo 2
+Función SendCmd Status: 0 Error: 92 Comando: 101
+Función ReadFpStatus Status: 0 Error: 0 ErrorQPrint: -1
+
+Función UploadStatusCmd Comando: S1 File: C:\dll\Status1.txt Status: 0 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 92 Comando: !000002000000001000Nombre Articulo 1
+Función SendCmd Status: 0 Error: 92 Comando: !000002000000001000Nombre Articulo 2
+Función SendCmd Status: 0 Error: 92 Comando: 101
+Función ReadFpStatus Status: 0 Error: 0 ErrorQPrint: -1
+
+Función UploadStatusCmd Comando: S1 File: C:\dll\Status1.txt Status: 0 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 92 Comando: !000002000000001000Nombre Articulo 1
+Función SendCmd Status: 0 Error: 92 Comando: !000002000000001000Nombre Articulo 2
+Función SendCmd Status: 0 Error: 92 Comando: 101
+Función ReadFpStatus Status: 0 Error: 0 ErrorQPrint: -1
+
+Función UploadStatusCmd Comando: S1 File: C:\dll\Status1.txt Status: 0 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 92 Comando: !000002000000001000Nombre Articulo 1
+Función SendCmd Status: 0 Error: 92 Comando: !000002000000001000Nombre Articulo 2
+Función SendCmd Status: 0 Error: 92 Comando: 101
+Función ReadFpStatus Status: 0 Error: 0 ErrorQPrint: -1
+
+Función UploadStatusCmd Comando: S1 File: C:\dll\Status1.txt Status: 0 Error: 0

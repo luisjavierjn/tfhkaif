@@ -1,0 +1,2 @@
+RIF Del Usuario	Número Registro De La Maquina
+J313222798	XW60090581

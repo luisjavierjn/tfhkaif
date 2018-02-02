@@ -1,0 +1,66 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: tfhkaif - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\CONFIG~1\Temp\RSPB8.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "TFHKAIF_EXPORTS" /D "_UNICODE" /D "UNICODE" /FR"Debug/" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Archivos de programa\Microsoft Visual Studio\MyProjects\tfhkaif\bixolon.cpp"
+"C:\Archivos de programa\Microsoft Visual Studio\MyProjects\tfhkaif\ValentinesDay\char_array_buffer.cpp"
+"C:\Archivos de programa\Microsoft Visual Studio\MyProjects\tfhkaif\output_buffer.cpp"
+"C:\Archivos de programa\Microsoft Visual Studio\MyProjects\tfhkaif\printer.cpp"
+"C:\Archivos de programa\Microsoft Visual Studio\MyProjects\tfhkaif\protocol.cpp"
+"C:\Archivos de programa\Microsoft Visual Studio\MyProjects\tfhkaif\state_machines.cpp"
+"C:\Archivos de programa\Microsoft Visual Studio\MyProjects\tfhkaif\tfhkaif.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\CONFIG~1\Temp\RSPB8.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\CONFIG~1\Temp\RSPB9.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "TFHKAIF_EXPORTS" /D "_UNICODE" /D "UNICODE" /FR"Debug/" /Fp"Debug/tfhkaif.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Archivos de programa\Microsoft Visual Studio\MyProjects\tfhkaif\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\CONFIG~1\Temp\RSPB9.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\CONFIG~1\Temp\RSPBA.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib comsupp.lib /nologo /dll /incremental:yes /pdb:"Debug/tfhkaif.pdb" /debug /machine:I386 /def:".\tfhkaif.def" /out:"c:/dll/tfhkaif.dll" /implib:"Debug/tfhkaif.lib" /pdbtype:sept 
+".\Debug\bixolon.obj"
+".\Debug\char_array_buffer.obj"
+".\Debug\output_buffer.obj"
+".\Debug\printer.obj"
+".\Debug\protocol.obj"
+".\Debug\state_machines.obj"
+".\Debug\StdAfx.obj"
+".\Debug\tfhkaif.obj"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\CONFIG~1\Temp\RSPBA.tmp"
+<h3>Output Window</h3>
+Compiling...
+StdAfx.cpp
+Compiling...
+bixolon.cpp
+char_array_buffer.cpp
+output_buffer.cpp
+printer.cpp
+c:\archivos de programa\microsoft visual studio\myprojects\tfhkaif\printer.cpp(1004) : warning C4101: 'pch' : unreferenced local variable
+protocol.cpp
+state_machines.cpp
+tfhkaif.cpp
+Generating Code...
+Linking...
+   Creating library Debug/tfhkaif.lib and object Debug/tfhkaif.exp
+tfhkaif.exp : warning LNK4070: /OUT:quorion.dll directive in .EXP differs from output filename "c:/dll/tfhkaif.dll"; ignoring directive
+Creating command line "bscmake.exe /nologo /o"Debug/tfhkaif.bsc"  ".\Debug\StdAfx.sbr" ".\Debug\bixolon.sbr" ".\Debug\char_array_buffer.sbr" ".\Debug\output_buffer.sbr" ".\Debug\printer.sbr" ".\Debug\protocol.sbr" ".\Debug\state_machines.sbr" ".\Debug\tfhkaif.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+tfhkaif.dll - 0 error(s), 2 warning(s)
+</pre>
+</body>
+</html>

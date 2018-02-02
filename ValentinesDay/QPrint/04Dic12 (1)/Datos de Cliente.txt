@@ -1,0 +1,814 @@
+Dato_1: Emitido Por:
+Dato_2: Raz/Soc.:
+Dato_3: Cedula/Rif:
+Dato_4: Ref. Interna:
+Dato_5: Factura Asociada:
+Dato_6: Fecha Fac. Asc.
+Dato_7: Ser. Imp. Fac. Asc.
+Dato_8: 
+Dato_9: 
+datosclienteNC:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Ref. Interna: 0000000003|Factura Asociada: 0000000002|Fecha Fac. Asc.   03/12/2012|Ser. Imp. Fac. Asc. XW60090464
+Datos de Cliente Nota de Credito:
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+_______
+DATOS DE CLIENTE NOTA DE CREDITO:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Ref. Interna: 0000000003|Factura Asociada: 0000000002|Fecha Fac. Asc.   03/12/2012|Ser. Imp. Fac. Asc. XW60090464
+_______
+_______
+DATOS DE CLIENTE:
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+_______
+Dato_1: Emitido Por:
+Dato_2: Raz/Soc.:
+Dato_3: Cedula/Rif:
+Dato_4: Ref. Interna:
+Dato_5: Factura Asociada:
+Dato_6: Fecha Fac. Asc.
+Dato_7: Ser. Imp. Fac. Asc.
+Dato_8: 
+Dato_9: 
+Dato_1: Emitido Por:
+Dato_2: Raz/Soc.:
+Dato_3: Cedula/Rif:
+Dato_4: Ref. Interna:
+Dato_5: Factura Asociada:
+Dato_6: Fecha Fac. Asc.
+Dato_7: Ser. Imp. Fac. Asc.
+Dato_8: 
+Dato_9: 
+_______
+DATOS DE CLIENTE NOTA DE CREDITO:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Ref. Interna: 0000000003|Factura Asociada: 0000000002|Fecha Fac. Asc.   03/12/2012|Ser. Imp. Fac. Asc. XW60090464
+_______
+_______
+DATOS DE CLIENTE:
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+_______
+Dato_1: Emitido Por:
+Dato_2: Raz/Soc.:
+Dato_3: Cedula/Rif:
+Dato_4: Ref. Interna:
+Dato_5: Factura Asociada:
+Dato_6: Fecha Fac. Asc.
+Dato_7: Ser. Imp. Fac. Asc.
+Dato_8: 
+Dato_9: 
+_______
+DATOS DE CLIENTE NOTA DE CREDITO:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Ref. Interna: 0000000003|Factura Asociada: 0000000002|Fecha Fac. Asc.   03/12/2012|Ser. Imp. Fac. Asc. XW60090464
+_______
+_______
+DATOS DE CLIENTE:
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+_______
+----------------FIN-----------------
+----------------INICIO-----------------
+Dato_1: Emitido Por:
+Dato_2: Raz/Soc.:
+Dato_3: Cedula/Rif:
+Dato_4: Ref. Interna:
+Dato_5: Factura Asociada:
+Dato_6: Fecha Fac. Asc.
+Dato_7: Ser. Imp. Fac. Asc.
+Dato_8: 
+Dato_9: 
+Cant_1: 1
+Cant_2: 3
+Cant_3: 1
+Cant_4: 1
+Cant_5: 1
+Cant_6: 1
+Cant_7: 1
+Cant_8: -842150451
+Cant_9: -842150451
+_______
+DATOS DE CLIENTE NOTA DE CREDITO:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Ref. Interna: 0000000003|Factura Asociada: 0000000002|Fecha Fac. Asc.   03/12/2012|Ser. Imp. Fac. Asc. XW60090464
+_______
+_______
+DATOS DE CLIENTE:
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+_______
+----------------FIN-----------------
+----------------INICIO-----------------
+Dato_1: Emitido Por:
+Dato_2: Raz/Soc.:
+Dato_3: Cedula/Rif:
+Dato_4: Ref. Interna:
+Dato_5: Factura Asociada:
+Dato_6: Fecha Fac. Asc.
+Dato_7: Ser. Imp. Fac. Asc.
+Dato_8: 
+Dato_9: 
+Cant_1: 1
+Cant_2: 3
+Cant_3: 1
+Cant_4: 1
+Cant_5: 1
+Cant_6: 1
+Cant_7: 1
+Cant_8: -842150451
+Cant_9: -842150451
+_______
+DATOS DE CLIENTE NOTA DE CREDITO:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Ref. Interna: 0000000003|Factura Asociada: 0000000002|Fecha Fac. Asc.   03/12/2012|Ser. Imp. Fac. Asc. XW60090464
+_______
+_______
+DATOS DE CLIENTE:
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+_______
+----------------FIN-----------------
+----------------INICIO-----------------
+Dato_1: Emitido Por:
+Dato_2: Raz/Soc.:
+Dato_3: Cedula/Rif:
+Dato_4: Ref. Interna:
+Dato_5: Factura Asociada:
+Dato_6: Fecha Fac. Asc.
+Dato_7: Ser. Imp. Fac. Asc.
+Dato_8: 
+Dato_9: 
+Cant_1: 1
+Cant_2: 3
+Cant_3: 1
+Cant_4: 1
+Cant_5: 1
+Cant_6: 1
+Cant_7: 1
+Cant_8: -842150451
+Cant_9: -842150451
+_______
+DATOS CLIENTE FACTURA:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Direccion: Cabudare Estado Lara|Telefono: 02127857086|Ref. Interna: 0000000028|Usuario: 00
+_______
+_______
+EDATOS DE CLIENTE:
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+_______
+----------------INICIO-----------------
+Dato_1: Emitido Por:
+Dato_2: Raz/Soc.:
+Dato_3: Cedula/Rif:
+Dato_4: Ref. Interna:
+Dato_5: Factura Asociada:
+Dato_6: Fecha Fac. Asc.
+Dato_7: Ser. Imp. Fac. Asc.
+Dato_8: 
+Dato_9: 
+Cant_1: 1
+Cant_2: 3
+Cant_3: 1
+Cant_4: 1
+Cant_5: 1
+Cant_6: 1
+Cant_7: 1
+Cant_8: -842150451
+Cant_9: -842150451
+_______
+DATOS CLIENTE FACTURA:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Direccion: Cabudare Estado Lara|Telefono: 02127857086|Ref. Interna: 0000000028|Usuario: 00
+_______
+_______
+EDATOS DE CLIENTE:
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+_______
+_______
+DATOS DE CLIENTE NOTA DE CREDITO:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489Direccion: Cabudare Estado LaraTelefono: 02127857086|Ref. Interna: 0000000028Usuario: 00Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Ref. Interna: 0000000003|Factura Asociada: 0000000002|Fecha Fac. Asc.   03/12/2012|Ser. Imp. Fac. Asc. XW60090464
+_______
+_______
+DATOS DE CLIENTE:
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489Direccion: Cabudare";"Ref. Interna: 0000000028Usuario: 00Emiti";"Raz/Soc.: Andrea Romero Ortega de la San";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+_______
+----------------FIN-----------------
+----------------INICIO-----------------
+Dato_1: Emitido Por:
+Dato_2: Raz/Soc.:
+Dato_3: Cedula/Rif:
+Dato_4: Ref. Interna:
+Dato_5: Factura Asociada:
+Dato_6: Fecha Fac. Asc.
+Dato_7: Ser. Imp. Fac. Asc.
+Dato_8: 
+Dato_9: 
+Cant_1: 1
+Cant_2: 3
+Cant_3: 1
+Cant_4: 1
+Cant_5: 1
+Cant_6: 1
+Cant_7: 1
+Cant_8: -842150451
+Cant_9: -842150451
+_______
+DATOS CLIENTE FACTURA:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Direccion: Cabudare Estado Lara|Telefono: 02127857086|Ref. Interna: 0000000028|Usuario: 00
+_______
+_______
+EDATOS DE CLIENTE:
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+_______
+_______
+DATOS DE CLIENTE NOTA DE CREDITO:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489Direccion: Cabudare Estado LaraTelefono: 02127857086|Ref. Interna: 0000000028Usuario: 00Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Ref. Interna: 0000000003|Factura Asociada: 0000000002|Fecha Fac. Asc.   03/12/2012|Ser. Imp. Fac. Asc. XW60090464
+_______
+_______
+DATOS DE CLIENTE:
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489Direccion: Cabudare";"Ref. Interna: 0000000028Usuario: 00Emiti";"Raz/Soc.: Andrea Romero Ortega de la San";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+_______
+----------------FIN-----------------
+----------------INICIO-----------------
+Dato_1: Emitido Por:
+Dato_2: Raz/Soc.:
+Dato_3: Cedula/Rif:
+Dato_4: Ref. Interna:
+Dato_5: Factura Asociada:
+Dato_6: Fecha Fac. Asc.
+Dato_7: Ser. Imp. Fac. Asc.
+Dato_8: 
+Dato_9: 
+Cant_1: 1
+Cant_2: 3
+Cant_3: 1
+Cant_4: 1
+Cant_5: 1
+Cant_6: 1
+Cant_7: 1
+Cant_8: -842150451
+Cant_9: -842150451
+_______
+DATOS CLIENTE FACTURA:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Direccion: Cabudare Estado Lara|Telefono: 02127857086|Ref. Interna: 0000000028|Usuario: 00
+_______
+_______
+EDATOS DE CLIENTE:
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+_______
+----------------INICIO-----------------
+Dato_1: Emitido Por:
+Dato_2: Raz/Soc.:
+Dato_3: Cedula/Rif:
+Dato_4: Ref. Interna:
+Dato_5: Factura Asociada:
+Dato_6: Fecha Fac. Asc.
+Dato_7: Ser. Imp. Fac. Asc.
+Dato_8: 
+Dato_9: 
+Cant_1: 1
+Cant_2: 3
+Cant_3: 1
+Cant_4: 1
+Cant_5: 1
+Cant_6: 1
+Cant_7: 1
+Cant_8: -842150451
+Cant_9: -842150451
+_______
+DATOS CLIENTE FACTURA:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Direccion: Cabudare Estado Lara|Telefono: 02127857086|Ref. Interna: 0000000028|Usuario: 00
+_______
+_______
+EDATOS DE CLIENTE:
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+_______
+_______
+DATOS DE CLIENTE NOTA DE CREDITO:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Ref. Interna: 0000000003|Factura Asociada: 0000000002|Fecha Fac. Asc.   03/12/2012|Ser. Imp. Fac. Asc. XW60090464
+_______
+_______
+DATOS DE CLIENTE:
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+_______
+----------------FIN-----------------
+----------------INICIO-----------------
+Dato_1: Emitido Por:
+Dato_2: Raz/Soc.:
+Dato_3: Cedula/Rif:
+Dato_4: Ref. Interna:
+Dato_5: Factura Asociada:
+Dato_6: Fecha Fac. Asc.
+Dato_7: Ser. Imp. Fac. Asc.
+Dato_8: 
+Dato_9: 
+Cant_1: 1
+Cant_2: 3
+Cant_3: 1
+Cant_4: 1
+Cant_5: 1
+Cant_6: 1
+Cant_7: 1
+Cant_8: -842150451
+Cant_9: -842150451
+_______
+DATOS CLIENTE FACTURA:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Direccion: Cabudare Estado Lara|Telefono: 02127857086|Ref. Interna: 0000000028|Usuario: 00
+_______
+_______
+EDATOS DE CLIENTE:
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+_______
+_______
+DATOS DE CLIENTE NOTA DE CREDITO:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Ref. Interna: 0000000003|Factura Asociada: 0000000002|Fecha Fac. Asc.   03/12/2012|Ser. Imp. Fac. Asc. XW60090464
+_______
+_______
+DATOS DE CLIENTE:
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+_______
+----------------FIN-----------------
+----------------INICIO-----------------
+Dato_1: Emitido Por:
+Dato_2: Raz/Soc.:
+Dato_3: Cedula/Rif:
+Dato_4: Ref. Interna:
+Dato_5: Factura Asociada:
+Dato_6: Fecha Fac. Asc.
+Dato_7: Ser. Imp. Fac. Asc.
+Dato_8: 
+Dato_9: 
+Cant_1: 1
+Cant_2: 3
+Cant_3: 1
+Cant_4: 1
+Cant_5: 1
+Cant_6: 1
+Cant_7: 1
+Cant_8: -842150451
+Cant_9: -842150451
+_______
+DATOS CLIENTE FACTURA:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Direccion: Cabudare Estado Lara|Telefono: 02127857086|Ref. Interna: 0000000028|Usuario: 00
+_______
+_______
+EDATOS DE CLIENTE:
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+_______
+_______
+DATOS DE CLIENTE NOTA DE CREDITO:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Ref. Interna: 0000000003|Factura Asociada: 0000000002|Fecha Fac. Asc.   03/12/2012|Ser. Imp. Fac. Asc. XW60090464
+_______
+_______
+DATOS DE CLIENTE:
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+_______
+----------------FIN-----------------
+----------------INICIO-----------------
+Dato_1: Emitido Por:
+Dato_2: Raz/Soc.:
+Dato_3: Cedula/Rif:
+Dato_4: Ref. Interna:
+Dato_5: Factura Asociada:
+Dato_6: Fecha Fac. Asc.
+Dato_7: Ser. Imp. Fac. Asc.
+Dato_8: 
+Dato_9: 
+Cant_1: 1
+Cant_2: 3
+Cant_3: 1
+Cant_4: 1
+Cant_5: 1
+Cant_6: 1
+Cant_7: 1
+Cant_8: -842150451
+Cant_9: -842150451
+_______
+DATOS CLIENTE FACTURA:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Direccion: Cabudare Estado Lara|Telefono: 02127857086|Ref. Interna: 0000000028|Usuario: 00
+_______
+_______
+EDATOS DE CLIENTE:
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+_______
+_______
+DATOS DE CLIENTE NOTA DE CREDITO:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Ref. Interna: 0000000003|Factura Asociada: 0000000002|Fecha Fac. Asc.   03/12/2012|Ser. Imp. Fac. Asc. XW60090464
+_______
+_______
+DATOS DE CLIENTE:
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+_______
+----------------FIN-----------------
+----------------INICIO-----------------
+Dato_1: Emitido Por:
+Dato_2: Raz/Soc.:
+Dato_3: Cedula/Rif:
+Dato_4: Ref. Interna:
+Dato_5: Factura Asociada:
+Dato_6: Fecha Fac. Asc.
+Dato_7: Ser. Imp. Fac. Asc.
+Dato_8: 
+Dato_9: 
+Cant_1: 1
+Cant_2: 3
+Cant_3: 1
+Cant_4: 1
+Cant_5: 1
+Cant_6: 1
+Cant_7: 1
+Cant_8: -842150451
+Cant_9: -842150451
+_______
+DATOS CLIENTE FACTURA:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Direccion: Cabudare Estado Lara|Telefono: 02127857086|Ref. Interna: 0000000028|Usuario: 00
+_______
+_______
+EDATOS DE CLIENTE:
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+_______
+_______
+DATOS DE CLIENTE NOTA DE CREDITO:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Ref. Interna: 0000000003|Factura Asociada: 0000000002|Fecha Fac. Asc.   03/12/2012|Ser. Imp. Fac. Asc. XW60090464
+_______
+_______
+DATOS DE CLIENTE:
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+_______
+----------------FIN-----------------
+----------------INICIO-----------------
+Dato_1: Emitido Por:
+Dato_2: Raz/Soc.:
+Dato_3: Cedula/Rif:
+Dato_4: Ref. Interna:
+Dato_5: Factura Asociada:
+Dato_6: Fecha Fac. Asc.
+Dato_7: Ser. Imp. Fac. Asc.
+Dato_8: 
+Dato_9: 
+Cant_1: 1
+Cant_2: 3
+Cant_3: 1
+Cant_4: 1
+Cant_5: 1
+Cant_6: 1
+Cant_7: 1
+Cant_8: -842150451
+Cant_9: -842150451
+_______
+DATOS CLIENTE FACTURA:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Direccion: Cabudare Estado Lara|Telefono: 02127857086|Ref. Interna: 0000000028|Usuario: 00
+_______
+_______
+EDATOS DE CLIENTE:
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+_______
+_______
+DATOS DE CLIENTE NOTA DE CREDITO:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Ref. Interna: 0000000003|Factura Asociada: 0000000002|Fecha Fac. Asc.   03/12/2012|Ser. Imp. Fac. Asc. XW60090464
+_______
+_______
+DATOS DE CLIENTE:
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+_______
+----------------FIN-----------------
+----------------INICIO-----------------
+Dato_1: Emitido Por:
+Dato_2: Raz/Soc.:
+Dato_3: Cedula/Rif:
+Dato_4: Ref. Interna:
+Dato_5: Factura Asociada:
+Dato_6: Fecha Fac. Asc.
+Dato_7: Ser. Imp. Fac. Asc.
+Dato_8: 
+Dato_9: 
+Cant_1: 1
+Cant_2: 3
+Cant_3: 1
+Cant_4: 1
+Cant_5: 1
+Cant_6: 1
+Cant_7: 1
+Cant_8: -842150451
+Cant_9: -842150451
+_______
+DATOS CLIENTE FACTURA:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Direccion: Cabudare Estado Lara|Telefono: 02127857086|Ref. Interna: 0000000028|Usuario: 00
+_______
+_______
+EDATOS DE CLIENTE:
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+_______
+_______
+DATOS DE CLIENTE NOTA DE CREDITO:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Ref. Interna: 0000000003|Factura Asociada: 0000000002|Fecha Fac. Asc.   03/12/2012|Ser. Imp. Fac. Asc. XW60090464
+_______
+_______
+DATOS DE CLIENTE:
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+_______
+----------------FIN-----------------
+----------------INICIO-----------------
+Dato_1: Emitido Por:
+Dato_2: Raz/Soc.:
+Dato_3: Cedula/Rif:
+Dato_4: Ref. Interna:
+Dato_5: Factura Asociada:
+Dato_6: Fecha Fac. Asc.
+Dato_7: Ser. Imp. Fac. Asc.
+Dato_8: 
+Dato_9: 
+Cant_1: 1
+Cant_2: 3
+Cant_3: 1
+Cant_4: 1
+Cant_5: 1
+Cant_6: 1
+Cant_7: 1
+Cant_8: -842150451
+Cant_9: -842150451
+_______
+DATOS CLIENTE FACTURA:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Direccion: Cabudare Estado Lara|Telefono: 02127857086|Ref. Interna: 0000000028|Usuario: 00
+_______
+_______
+EDATOS DE CLIENTE:
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+_______
+----------------INICIO-----------------
+Dato_1: Emitido Por:
+Dato_2: Raz/Soc.:
+Dato_3: Cedula/Rif:
+Dato_4: Ref. Interna:
+Dato_5: Factura Asociada:
+Dato_6: Fecha Fac. Asc.
+Dato_7: Ser. Imp. Fac. Asc.
+Dato_8: 
+Dato_9: 
+Cant_1: 1
+Cant_2: 3
+Cant_3: 1
+Cant_4: 1
+Cant_5: 1
+Cant_6: 1
+Cant_7: 1
+Cant_8: -842150451
+Cant_9: -842150451
+_______
+DATOS CLIENTE FACTURA:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Direccion: Cabudare Estado Lara|Telefono: 02127857086|Ref. Interna: 0000000028|Usuario: 00
+_______
+_______
+EDATOS DE CLIENTE:
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+_______
+_______
+DATOS DE CLIENTE NOTA DE CREDITO:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Ref. Interna: 0000000003|Factura Asociada: 0000000002|Fecha Fac. Asc.   03/12/2012|Ser. Imp. Fac. Asc. XW60090464
+_______
+_______
+DATOS DE CLIENTE:
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+_______
+----------------FIN-----------------
+----------------INICIO-----------------
+Dato_1: Emitido Por:
+Dato_2: Raz/Soc.:
+Dato_3: Cedula/Rif:
+Dato_4: Ref. Interna:
+Dato_5: Factura Asociada:
+Dato_6: Fecha Fac. Asc.
+Dato_7: Ser. Imp. Fac. Asc.
+Dato_8: 
+Dato_9: 
+Cant_1: 1
+Cant_2: 3
+Cant_3: 1
+Cant_4: 1
+Cant_5: 1
+Cant_6: 1
+Cant_7: 1
+Cant_8: -842150451
+Cant_9: -842150451
+_______
+DATOS CLIENTE FACTURA:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Direccion: Cabudare Estado Lara|Telefono: 02127857086|Ref. Interna: 0000000028|Usuario: 00
+_______
+_______
+EDATOS DE CLIENTE:
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+_______
+_______
+DATOS DE CLIENTE NOTA DE CREDITO:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Ref. Interna: 0000000003|Factura Asociada: 0000000002|Fecha Fac. Asc.   03/12/2012|Ser. Imp. Fac. Asc. XW60090464
+_______
+_______
+DATOS DE CLIENTE:
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+_______
+----------------FIN-----------------
+----------------INICIO-----------------
+Dato_1: Emitido Por:
+Dato_2: Raz/Soc.:
+Dato_3: Cedula/Rif:
+Dato_4: Ref. Interna:
+Dato_5: Factura Asociada:
+Dato_6: Fecha Fac. Asc.
+Dato_7: Ser. Imp. Fac. Asc.
+Dato_8: 
+Dato_9: 
+Cant_1: 1
+Cant_2: 3
+Cant_3: 1
+Cant_4: 1
+Cant_5: 1
+Cant_6: 1
+Cant_7: 1
+Cant_8: -842150451
+Cant_9: -842150451
+_______
+DATOS CLIENTE FACTURA:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Direccion: Cabudare Estado Lara|Telefono: 02127857086|Ref. Interna: 0000000028|Usuario: 00
+_______
+_______
+EDATOS DE CLIENTE:
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+_______
+_______
+DATOS DE CLIENTE NOTA DE CREDITO:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Ref. Interna: 0000000003|Factura Asociada: 0000000002|Fecha Fac. Asc.   03/12/2012|Ser. Imp. Fac. Asc. XW60090464
+_______
+_______
+DATOS DE CLIENTE:
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+_______
+----------------FIN-----------------
+----------------INICIO-----------------
+Dato_1: Emitido Por:
+Dato_2: Raz/Soc.:
+Dato_3: Cedula/Rif:
+Dato_4: Ref. Interna:
+Dato_5: Factura Asociada:
+Dato_6: Fecha Fac. Asc.
+Dato_7: Ser. Imp. Fac. Asc.
+Dato_8: 
+Dato_9: 
+Cant_1: 1
+Cant_2: 3
+Cant_3: 1
+Cant_4: 1
+Cant_5: 1
+Cant_6: 1
+Cant_7: 1
+Cant_8: -842150451
+Cant_9: -842150451
+_______
+DATOS CLIENTE FACTURA:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Direccion: Cabudare Estado Lara|Telefono: 02127857086|Ref. Interna: 0000000028|Usuario: 00
+_______
+_______
+EDATOS DE CLIENTE:
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+_______
+_______
+DATOS DE CLIENTE NOTA DE CREDITO:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Ref. Interna: 0000000003|Factura Asociada: 0000000002|Fecha Fac. Asc.   03/12/2012|Ser. Imp. Fac. Asc. XW60090464
+_______
+_______
+DATOS DE CLIENTE:
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+_______
+----------------FIN-----------------
+----------------INICIO-----------------
+Dato_1: Emitido Por:
+Dato_2: Raz/Soc.:
+Dato_3: Cedula/Rif:
+Dato_4: Ref. Interna:
+Dato_5: Factura Asociada:
+Dato_6: Fecha Fac. Asc.
+Dato_7: Ser. Imp. Fac. Asc.
+Dato_8: 
+Dato_9: 
+Cant_1: 1
+Cant_2: 3
+Cant_3: 1
+Cant_4: 1
+Cant_5: 1
+Cant_6: 1
+Cant_7: 1
+Cant_8: -842150451
+Cant_9: -842150451
+_______
+DATOS CLIENTE FACTURA:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Direccion: Cabudare Estado Lara|Telefono: 02127857086|Ref. Interna: 0000000028|Usuario: 00
+_______
+_______
+EDATOS DE CLIENTE:
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+_______
+----------------INICIO-----------------
+Dato_1: Emitido Por:
+Dato_2: Raz/Soc.:
+Dato_3: Cedula/Rif:
+Dato_4: Ref. Interna:
+Dato_5: Factura Asociada:
+Dato_6: Fecha Fac. Asc.
+Dato_7: Ser. Imp. Fac. Asc.
+Dato_8: 
+Dato_9: 
+Cant_1: 1
+Cant_2: 3
+Cant_3: 1
+Cant_4: 1
+Cant_5: 1
+Cant_6: 1
+Cant_7: 1
+Cant_8: -842150451
+Cant_9: -842150451
+_______
+DATOS CLIENTE FACTURA:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Direccion: Cabudare Estado Lara|Telefono: 02127857086|Ref. Interna: 0000000028|Usuario: 00
+_______
+_______
+EDATOS DE CLIENTE:
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+_______
+----------------INICIO-----------------
+Dato_1: Emitido Por:
+Dato_2: Raz/Soc.:
+Dato_3: Cedula/Rif:
+Dato_4: Ref. Interna:
+Dato_5: Factura Asociada:
+Dato_6: Fecha Fac. Asc.
+Dato_7: Ser. Imp. Fac. Asc.
+Dato_8: 
+Dato_9: 
+Cant_1: 1
+Cant_2: 3
+Cant_3: 1
+Cant_4: 1
+Cant_5: 1
+Cant_6: 1
+Cant_7: 1
+Cant_8: -842150451
+Cant_9: -842150451
+_______
+DATOS CLIENTE FACTURA:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Direccion: Cabudare Estado Lara|Telefono: 02127857086|Ref. Interna: 0000000028|Usuario: 00
+_______
+_______
+EDATOS DE CLIENTE:
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+_______
+----------------INICIO-----------------
+Dato_1: Emitido Por:
+Dato_2: Raz/Soc.:
+Dato_3: Cedula/Rif:
+Dato_4: Ref. Interna:
+Dato_5: Factura Asociada:
+Dato_6: Fecha Fac. Asc.
+Dato_7: Ser. Imp. Fac. Asc.
+Dato_8: 
+Dato_9: 
+Cant_1: 1
+Cant_2: 3
+Cant_3: 1
+Cant_4: 1
+Cant_5: 1
+Cant_6: 1
+Cant_7: 1
+Cant_8: -842150451
+Cant_9: -842150451
+_______
+DATOS CLIENTE FACTURA:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Direccion: Cabudare Estado Lara|Telefono: 02127857086|Ref. Interna: 0000000028|Usuario: 00
+_______
+_______
+EDATOS DE CLIENTE:
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+_______
+----------------INICIO-----------------
+Dato_1: Emitido Por:
+Dato_2: Raz/Soc.:
+Dato_3: Cedula/Rif:
+Dato_4: Ref. Interna:
+Dato_5: Factura Asociada:
+Dato_6: Fecha Fac. Asc.
+Dato_7: Ser. Imp. Fac. Asc.
+Dato_8: 
+Dato_9: 
+Cant_1: 1
+Cant_2: 3
+Cant_3: 1
+Cant_4: 1
+Cant_5: 1
+Cant_6: 1
+Cant_7: 1
+Cant_8: -842150451
+Cant_9: -842150451
+_______
+DATOS CLIENTE FACTURA:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Direccion: Cabudare Estado Lara|Telefono: 02127857086|Ref. Interna: 0000000028|Usuario: 00
+_______
+_______
+EDATOS DE CLIENTE:
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Direccion: Cabudare Estado Lara";"Telefono: 02127857086";"Ref. Interna: 0000000028";"Usuario: 00";
+_______
+_______
+DATOS DE CLIENTE NOTA DE CREDITO:
+Emitido Por:LA ZONA DEL HIERRO, C.A|Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad y Tobago Blanco Paez Perez Moreno de Marchan|Cedula/Rif: V18863489|Ref. Interna: 0000000003|Factura Asociada: 0000000002|Fecha Fac. Asc.   03/12/2012|Ser. Imp. Fac. Asc. XW60090464
+_______
+_______
+DATOS DE CLIENTE:
+F2;12;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Romero Ortega de la San";"tisima Trinidad y Tobago Blanco Paez Per";"ez Moreno de Marchan";"Cedula/Rif: V18863489";"Ref. Interna: 0000000003";"Factura Asociada: 0000000002";"Fecha Fac. Asc.   03/12/2012";"Ser. Imp. Fac. Asc. XW60090464";
+_______
+----------------FIN-----------------

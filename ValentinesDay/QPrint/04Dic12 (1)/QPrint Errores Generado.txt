@@ -1,0 +1,5 @@
+Error QP: 171, Fecha: 05/11/2012, Hora: 12:56, Ubicación: NCRegistroProducto
+Error QP: 149, Fecha: 05/11/2012, Hora: 12:56, Ubicación: NCCierreDevolucion
+Error QP: 171, Fecha: 05/11/2012, Hora: 12:59, Ubicación: NCRegistroProducto
+Error QP: 149, Fecha: 05/11/2012, Hora: 12:59, Ubicación: NCCierreDevolucion
+------------------ XW6 0090464 ------------------

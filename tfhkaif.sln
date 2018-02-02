@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ValentinesDay", "ValentinesDay\ValentinesDay.vcxproj", "{1FD713DE-6AFB-32DC-9443-EF1B2A779E46}"
+	ProjectSection(ProjectDependencies) = postProject
+		{922005EE-3D83-9506-D443-5397DFF3B662} = {922005EE-3D83-9506-D443-5397DFF3B662}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "protocol", "protocol\protocol.vcxproj", "{72FFDDB9-2207-DB40-B851-5D4EAD457FC6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tfhkaif", "tfhkaif.vcxproj", "{922005EE-3D83-9506-D443-5397DFF3B662}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		Template|Win32 = Template|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FD713DE-6AFB-32DC-9443-EF1B2A779E46}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1FD713DE-6AFB-32DC-9443-EF1B2A779E46}.Debug|Win32.Build.0 = Debug|Win32
+		{1FD713DE-6AFB-32DC-9443-EF1B2A779E46}.Release|Win32.ActiveCfg = Release|Win32
+		{1FD713DE-6AFB-32DC-9443-EF1B2A779E46}.Release|Win32.Build.0 = Release|Win32
+		{1FD713DE-6AFB-32DC-9443-EF1B2A779E46}.Template|Win32.ActiveCfg = Release|Win32
+		{1FD713DE-6AFB-32DC-9443-EF1B2A779E46}.Template|Win32.Build.0 = Release|Win32
+		{72FFDDB9-2207-DB40-B851-5D4EAD457FC6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{72FFDDB9-2207-DB40-B851-5D4EAD457FC6}.Debug|Win32.Build.0 = Debug|Win32
+		{72FFDDB9-2207-DB40-B851-5D4EAD457FC6}.Release|Win32.ActiveCfg = Release|Win32
+		{72FFDDB9-2207-DB40-B851-5D4EAD457FC6}.Release|Win32.Build.0 = Release|Win32
+		{72FFDDB9-2207-DB40-B851-5D4EAD457FC6}.Template|Win32.ActiveCfg = Template|Win32
+		{72FFDDB9-2207-DB40-B851-5D4EAD457FC6}.Template|Win32.Build.0 = Template|Win32
+		{922005EE-3D83-9506-D443-5397DFF3B662}.Debug|Win32.ActiveCfg = Debug|Win32
+		{922005EE-3D83-9506-D443-5397DFF3B662}.Debug|Win32.Build.0 = Debug|Win32
+		{922005EE-3D83-9506-D443-5397DFF3B662}.Release|Win32.ActiveCfg = Release|Win32
+		{922005EE-3D83-9506-D443-5397DFF3B662}.Release|Win32.Build.0 = Release|Win32
+		{922005EE-3D83-9506-D443-5397DFF3B662}.Template|Win32.ActiveCfg = Template|Win32
+		{922005EE-3D83-9506-D443-5397DFF3B662}.Template|Win32.Build.0 = Template|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+RIF Del Usuario	Número Registro De La Maquina
+J400447810	XW60090770

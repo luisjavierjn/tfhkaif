@@ -1,0 +1,27 @@
+LIBRARY	"quorion"
+EXPORTS	
+	GetVer			@1
+	HelloWorld		@2
+	SetComSettings	@3	
+	GetComSettings	@4
+	SetIPSettings	@5
+	GetIPSettings	@6
+	OpenPort		@7
+	ClosePort		@8
+	OpenComPort		@9
+	CloseComPort	@10
+	OpenIPPort		@11
+	CloseIPPort		@12
+	SendCommand		@13
+	ReadData		@14
+	WeftLength		@15
+	Translate		@16
+	OpenFpctrl		@17
+	CloseFpctrl		@18
+	SendCmd			@19	   
+	CheckFprinter	@20
+	ReadFpStatus	@21
+	SendNCmd		@22
+	SendFileCmd		@23
+	UploadReportCmd	@24
+	UploadStatusCmd	@25

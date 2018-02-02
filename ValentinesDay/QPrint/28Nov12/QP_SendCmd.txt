@@ -1,0 +1,255 @@
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000019";"Usuario: 00";
+F2;3;"1/Manzana";402;1;1
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000019";"Usuario: 00";
+F2;3;"1/Manzana";402;1;1
+F2;2;;1;
+____________________
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000019";"Usuario: 00";
+F2;3;"1/Manzana";402;1;1
+------------------------------
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000019";"Usuario: 00";
+F2;3;"1/Manzana";402;1;1
+F2;2;;2;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000019";"Usuario: 00";
+F2;3;"1/Manzana";402;1;1
+F2;2;;2;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000019";"Usuario: 00";
+F2;3;"1/Manzana";402;1;1
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000019";"Usuario: 00";
+F2;3;"1/Manzana";402;1;1
+------------------------------
+F2;12;0;3;"Emitido Por:N&M SUMINISTROS, C.A";"Raz/Soc.: GREGORI ANDERSON ARRIECHE GARC";"A SILVA DE LOS COJELONES ";"Cedula/Rif: V-15094257";"Ref. Interna: 0000000001";"Factura Asociada: 001234";"Fecha Fac. Asc. 26/11/2012";"Ser. Imp. Fac. Asc. XW60090437";
+F2;3;"PLU 1";10000;1;1
+------------------------------
+F2;12;0;3;"Emitido Por:N&M SUMINISTROS, C.A";"Raz/Soc.: GREGORI ANDERSON ARRIECHE GARC";"A SILVA DE LOS COJELONES ";"Cedula/Rif: V-15094257";"Ref. Interna: 0000000001";"Factura Asociada: 001234";"Fecha Fac. Asc. 26/11/2012";"Ser. Imp. Fac. Asc. XW60090437";
+F2;3;"PLU 1";10000;1;1
+------------------------------
+F2;12;0;3;"Emitido Por:N&M SUMINISTROS, C.A";"Raz/Soc.: GREGORI ANDERSON ARRIECHE GARC";"A SILVA DE LOS COJELONES ";"Cedula/Rif: V-15094257";"Ref. Interna: 0000000001";"Factura Asociada: 001234";"Fecha Fac. Asc. 26/11/2012";"Ser. Imp. Fac. Asc. XW60090437";
+F2;3;"PLU 1";10000;1;1
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000019";"Usuario: 00";
+F2;3;"1/Manzana";402;1;1
+F2;2;;2;
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000019";"Usuario: 00";
+F2;3;"1/Manzana";402;1;1
+F2;2;;2;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000023";"Usuario: 00";
+F2;2;5000;1;
+F2;2;6200;2;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000023";"Usuario: 00";
+F2;2;5000;1;
+F2;2;6200;2;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000023";"Usuario: 00";
+F2;2;5000;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000023";"Usuario: 00";
+F2;2;5000;1;
+F2;2;6200;2;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000023";"Usuario: 00";
+F2;3;"Articulo";893;1;1
+U4000;1;"2/Carne de Lomito Importa"
+U5;4001;
+U4000;1;"da de Argentin"
+U5;4001;
+U4000;1;"a de Primera "
+U5;4001;
+
+F2;2;5000;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000023";"Usuario: 00";
+F2;3;"Articulo";893;1;1
+U4000;1;"2/Carne de Lomito Importa"
+U5;4001;
+U4000;1;"da de Argentin"
+U5;4001;
+U4000;1;"a de Primera "
+U5;4001;
+
+F2;2;5000;1;
+------------------------------
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000023";"Usuario: 00";
+F2;3;"Articulo";893;1;1
+U4000;1;"2/Carne de Lomito Importa"
+U5;4001;
+U4000;1;"da de Argentin"
+U5;4001;
+U4000;1;"a de Primera "
+U5;4001;
+
+F2;2;5000;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000023";"Usuario: 00";
+F2;3;"Articulo";893;1;1
+U4000;1;"2/Carne de Lomito Importa"
+U5;4001;
+U4000;1;"da de Argentin"
+U5;4001;
+U4000;1;"a de Primera "
+U5;4001;
+
+F2;2;5000;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000023";"Usuario: 00";
+F2;3;"Articulo";893;1;1
+U4000;1;"2/Carne de Lomito Importa"
+U5;4001;
+U4000;1;"da de Argentin"
+U5;4001;
+U4000;1;"a de Primera "
+U5;4001;
+
+F2;2;800;1;
+F2;2;93;2;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000023";"Usuario: 00";
+F2;3;"Articulo";893;1;1
+U4000;1;"2/Carne de Lomito Importa"
+U5;4001;
+U4000;1;"da de Argentin"
+U5;4001;
+U4000;1;"a de Primera "
+U5;4001;
+
+F2;2;500;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000023";"Usuario: 00";
+F2;3;"Articulo";893;1;1
+U4000;1;"2/Carne de Lomito Importa"
+U5;4001;
+U4000;1;"da de Argentin"
+U5;4001;
+U4000;1;"a de Primera "
+U5;4001;
+
+F2;2;500;1;
+F2;2;500;2;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000023";"Usuario: 00";
+F2;3;"Articulo";893;1;1
+F2;2;500;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000023";"Usuario: 00";
+F2;3;"Articulo";893;1;1
+F2;2;500;1;
+F2;2;500;2;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000023";"Usuario: 00";
+F2;3;"Articulo";893;1;1
+F2;2;500;1;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000023";"Usuario: 00";
+F2;3;"Articulo";893;1;1
+F2;2;500;1;
+F2;2;500;2;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000023";"Usuario: 00";
+F2;3;"Articulo";893;1;1
+F2;2;500;1;
+F2;2;500;2;
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000023";"Usuario: 00";
+F2;3;"Articulo";893;1;1
+F2;2;500;1;
+F2;2;500;2;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000023";"Usuario: 00";
+F2;3;"Articulo";893;1;1
+F2;2;500;1;
+F2;2;500;2;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000019";"Usuario: 00";
+F2;3;"Articulo";402;1;1
+U4000;1;"3/Producto de Prueba Prod"
+U5;4001;
+U4000;1;"ucto de Prueba"
+U5;4001;
+U4000;1;" Producto de Prueba Produ"
+U5;4001;
+U4000;1;"cto de Prueba "
+U5;4001;
+
+F2;2;;2;
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000019";"Usuario: 00";
+F2;3;"Articulo";402;1;1
+U4000;1;"3/Producto de Prueba Prod"
+U5;4001;
+U4000;1;"ucto de Prueba"
+U5;4001;
+U4000;1;" Producto de Prueba Produ"
+U5;4001;
+U4000;1;"cto de Prueba "
+U5;4001;
+
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000023";"Usuario: 00";
+F2;3;"Articulo";893;1;1
+F2;2;500;1;
+F2;2;500;2;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000023";"Usuario: 00";
+F2;3;"Articulo";893;1;1
+F2;2;500;1;
+F2;2;500;2;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000019";"Usuario: 00";
+F2;3;"Articulo";402;1;1
+U4000;1;"3/Producto de Prueba Prod"
+U5;4001;
+U4000;1;"ucto de Prueba"
+U5;4001;
+U4000;1;" Producto de Prueba Produ"
+U5;4001;
+U4000;1;"cto de Prueba "
+U5;4001;
+
+F2;2;;2;
+------------------------------
+------------------------------
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000019";"Usuario: 00";
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000019";"Usuario: 00";
+------------------------------
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000019";"Usuario: 00";
+F2;3;"Articulo";402;1;1
+------------------------------
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000019";"Usuario: 00";
+F2;3;"Articulo";402;1;1
+------------------------------
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000019";"Usuario: 00";
+F2;3;"Articulo";402;1;1
+F2;2;;2;
+------------------------------
+F2;1;0;3;"Emitido Por:LA ZONA DEL HIERRO, C.A";"Raz/Soc.: Andrea Pastora Linda Venezuela";"De la Santisima Trinidad de Puerto Espa#";"a Romero Ortega";"Cedula/Rif: V18863489";"Direccion: Urb. Las Mercedes Calle 3 19-";"Telefono: 0412-7857084";"Ref. Interna:0000000019";"Usuario: 00";
+F2;3;"Articulo";402;1;1

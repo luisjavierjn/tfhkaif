@@ -1,0 +1,279 @@
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTROS, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V-15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: BARQUISIMETO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0414-5123456
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000001
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO ( IVA 12 % )
+Función SendCmd Status: 5 Error: 0 Comando: ÿ
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTROS, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V-15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: BARQUISIMETO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0414-5123456
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000001
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO ( IVA 12 % )
+Función SendCmd Status: 5 Error: 0 Comando: ÿ
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTROS, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V-15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: BARQUISIMETO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0414-5123456
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000001
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO ( IVA 12 % )
+------------------------------
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTROS, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V-15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: BARQUISIMETO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0414-5123456
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000001
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO ( IVA 12 % )
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTROS, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V-15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: BARQUISIMETO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0414-5123456
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000001
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO ( IVA 12 % )
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTROS, C.A
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTROS, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTROS, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V-15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: BARQUISIMETO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0414-5123456
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000001
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO ( IVA 12 % )
+Función SendCmd Status: 5 Error: 0 Comando: ÿ
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTROS, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V-15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: BARQUISIMETO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0414-5123456
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000001
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO ( IVA 12 % )
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTROS, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V-15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: BARQUISIMETO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0414-5123456
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000001
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO ( IVA 12 % )
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTROS, C.A
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTROS, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V-15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: BARQUISIMETO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0414-5123456
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000001
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO ( IVA 12 % )
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTROS, C.A
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTROS, C.A
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTROS, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTROS, C.A
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTROS, C.A
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTROS, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V-15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: BARQUISIMETO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0414-5123456
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000001
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO ( IVA 12 % )
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTROS, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V-15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: BARQUISIMETO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0414-5123456
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000001
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO ( IVA 12 % )
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTROS, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V-15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: BARQUISIMETO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0414-5123456
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000001
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO ( IVA 12 % )
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTROS, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V-15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: BARQUISIMETO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0414-5123456
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000001
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO ( IVA 12 % )
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTROS, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V-15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Ref. Interna: 0000000001
+Función SendCmd Status: 0 Error: 0 Comando: i06Factura Asociada: 001234
+Función SendCmd Status: 0 Error: 0 Comando: i07Fecha Fac. Asc. 26/11/2012
+Función SendCmd Status: 0 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B1234567
+Función SendCmd Status: 5 Error: 0 Comando: d1000001000000001000PLU 1
+Función SendCmd Status: 4 Error: 0 Comando: f01000000010000ÿ
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTROS, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V-15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: BARQUISIMETO EDO LARA
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0414-5123456
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000001
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !00000008930000100001/PRODUCTO ( IVA 12 % )
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTROS, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V-15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Ref. Interna: 0000000001
+Función SendCmd Status: 0 Error: 0 Comando: i06Factura Asociada: 001234
+Función SendCmd Status: 0 Error: 0 Comando: i07Fecha Fac. Asc. 26/11/2012
+Función SendCmd Status: 0 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B1234567
+Función SendCmd Status: 5 Error: 0 Comando: d1000001000000001000PLU 1
+Función SendCmd Status: 4 Error: 0 Comando: f01000000010000ÿ
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTROS, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V-15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Ref. Interna: 0000000001
+Función SendCmd Status: 0 Error: 0 Comando: i06Factura Asociada: 001234
+Función SendCmd Status: 0 Error: 0 Comando: i07Fecha Fac. Asc. 26/11/2012
+Función SendCmd Status: 0 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B1234567
+Función SendCmd Status: 5 Error: 0 Comando: d1000001000000001000PLU 1
+Función SendCmd Status: 4 Error: 0 Comando: f01000000010000ÿ
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000019
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !0000000402000010001/Manzanaÿ
+------------------------------
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000019
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3

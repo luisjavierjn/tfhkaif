@@ -1,0 +1,1833 @@
+------------------------------
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000019
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 0 Error: -1 Comando: !000000040200001000
+Función SendCmd Status: 4 Error: 0 Comando: 102
+_______________________________
+
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000019
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000040200001000
+Función SendCmd Status: 4 Error: 0 Comando: 102
+------------------------------
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000042
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000042
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !0000000402000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000450
+------------------------------
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000050
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !0000000402000200001/Manzana
+Función SendCmd Status: 5 Error: 0 Comando: 201000000001000
+Función SendCmd Status: 5 Error: 0 Comando: 202000000004000
+Función SendCmd Status: 4 Error: 0 Comando: 203000000004005
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000050
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !0000000402000200001/Manzana
+Función SendCmd Status: 5 Error: 0 Comando: 201000000001000
+Función SendCmd Status: 5 Error: 0 Comando: 202000000004000
+Función SendCmd Status: 4 Error: 0 Comando: 203000000004005
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 0 Error: -1 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función ReadFpStatus Status: 4 Error: 0 ErrorQPrint: 0
+
+Función UploadStatusCmd Comando: S1 File: C:\dll\Status1.txt Status: 4 Error: 0
+------------------------------
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función ReadFpStatus Status: 4 Error: 0 ErrorQPrint: 0
+
+Función UploadStatusCmd Comando: S1 File: C:\dll\Status1.txt Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función ReadFpStatus Status: 4 Error: 0 ErrorQPrint: 0
+
+Función UploadStatusCmd Comando: S1 File: C:\dll\Status1.txt Status: 4 Error: 0
+------------------------------
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función ReadFpStatus Status: 4 Error: 0 ErrorQPrint: 0
+
+Función UploadStatusCmd Comando: S1 File: C:\dll\Status1.txt Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 0 Error: -1 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 0 Error: -1 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 0 Error: -1 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 5 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 5 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 5 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 1 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 1 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 1 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000019
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000040200001000
+Función SendCmd Status: 4 Error: 0 Comando: 102
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 1 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 1 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+------------------------------
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+------------------------------
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 5 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 5 Error: 0 Comando: 201000000000112
+------------------------------
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+------------------------------
+------------------------------
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Pastora Linda Venezuela De la Santisima
+Función SendCmd Status: 0 Error: 0 Comando: i03 Trinidad de Puerto Espa#a Romero Ortega
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Urb. Las Mercedes Calle 3 19-11. Cabudare Edo
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 0412-7857084
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna:0000000059
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 4 Error: 0 Comando: @3/Producto de Prueba Producto de Prueba
+Función SendCmd Status: 4 Error: 0 Comando: @ Producto de Prueba Producto de Prueba 
+Función SendCmd Status: 5 Error: 0 Comando: !000000010000001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000000112
+------------------------------
+------------------------------
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+------------------------------
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: nananananananananaananananan RUESGA SUR SECTO
+Función SendCmd Status: 0 Error: 0 Comando: i06R 7VEREDA ONCE CASA NUMERO CINCO BARQUISIMETO ESTADO LAR
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000011
+Función SendCmd Status: 4 Error: 0 Comando: @COOPERATIVA LOS SINTECHOS DE SANTA ROSA
+Función SendCmd Status: 4 Error: 0 Comando: @ DEL TUY BARQUISIMETO ESTADO LARA
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: nananananananananaananananan RUESGA SUR SECTO
+Función SendCmd Status: 0 Error: 0 Comando: i06R 7VEREDA ONCE CASA NUMERO CINCO BARQUISIMETO ESTADO LAR
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000011
+Función SendCmd Status: 4 Error: 0 Comando: @COOPERATIVA LOS SINTECHOS DE SANTA ROSA
+Función SendCmd Status: 4 Error: 0 Comando: @ DEL TUY BARQUISIMETO ESTADO LARA
+Función SendCmd Status: 5 Error: 0 Comando: !000000089300001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001000
+
+Función SendFileCmd  File: archivo.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: nananananananananaananananan RUESGA SUR SECTO
+Función SendCmd Status: 0 Error: 0 Comando: i06R 7VEREDA ONCE CASA NUMERO CINCO BARQUISIMETO ESTADO LAR
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000011
+Función SendCmd Status: 4 Error: 0 Comando: @COOPERATIVA LOS SINTECHOS DE SANTA ROSA
+Función SendCmd Status: 4 Error: 0 Comando: @ DEL TUY BARQUISIMETO ESTADO LARA
+Función SendCmd Status: 5 Error: 0 Comando: !000000089300001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001000
+
+Función SendFileCmd  File: archivo.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: nananananananananaananananan RUESGA SUR SECTO
+Función SendCmd Status: 0 Error: 0 Comando: i06R 7VEREDA ONCE CASA NUMERO CINCO BARQUISIMETO ESTADO LAR
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000011
+Función SendCmd Status: 4 Error: 0 Comando: @COOPERATIVA LOS SINTECHOS DE SANTA ROSA
+Función SendCmd Status: 4 Error: 0 Comando: @ DEL TUY BARQUISIMETO ESTADO LARA
+Función SendCmd Status: 5 Error: 0 Comando: !000000089300001000
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001000
+
+Función SendFileCmd  File: archivo.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO`S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V-15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Ref. Interna: 0000000001
+Función SendCmd Status: 0 Error: 0 Comando: i06Factura Asociada: 001234
+Función SendCmd Status: 0 Error: 0 Comando: i07Fecha Fac. Asc. 26/11/2012
+Función SendCmd Status: 0 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B1234567
+Función SendCmd Status: 4 Error: 92 Comando: d1000001000000001000PLU 1
+Función SendCmd Status: 4 Error: 92 Comando: f01000000010000
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 92
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO`S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V-15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Ref. Interna: 0000000001
+Función SendCmd Status: 0 Error: 0 Comando: i06Factura Asociada: 001234
+Función SendCmd Status: 0 Error: 0 Comando: i07Fecha Fac. Asc. 26/11/2012
+Función SendCmd Status: 0 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B1234567
+Función SendCmd Status: 4 Error: 92 Comando: d1000001000000001000PLU 1
+Función SendCmd Status: 4 Error: 92 Comando: f01000000010000
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 92
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO`S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V-15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Ref. Interna: 0000000001
+Función SendCmd Status: 0 Error: 0 Comando: i06Factura Asociada: 001234
+Función SendCmd Status: 0 Error: 0 Comando: i07Fecha Fac. Asc. 26/11/2012
+Función SendCmd Status: 0 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B1234567
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO`S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V-15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Ref. Interna: 0000000001
+Función SendCmd Status: 0 Error: 0 Comando: i06Factura Asociada: 001234
+Función SendCmd Status: 0 Error: 0 Comando: i07Fecha Fac. Asc. 26/11/2012
+Función SendCmd Status: 0 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B1234567
+Función SendCmd Status: 4 Error: 92 Comando: d1000001000000001000PLU 1
+Función SendCmd Status: 4 Error: 92 Comando: f01000000010000
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 92
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO`S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V-15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Ref. Interna: 0000000001
+Función SendCmd Status: 0 Error: 0 Comando: i06Factura Asociada: 001234
+Función SendCmd Status: 0 Error: 0 Comando: i07Fecha Fac. Asc. 26/11/2012
+Función SendCmd Status: 0 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B1234567
+Función SendCmd Status: 4 Error: 92 Comando: d1000001000000001000PLU 1
+Función SendCmd Status: 4 Error: 92 Comando: f01000000010000
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 92
+------------------------------
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO`S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V-15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Ref. Interna: 0000000001
+Función SendCmd Status: 0 Error: 0 Comando: i06Factura Asociada: 001234
+Función SendCmd Status: 0 Error: 0 Comando: i07Fecha Fac. Asc. 26/11/2012
+Función SendCmd Status: 0 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B1234567
+Función SendCmd Status: 5 Error: 0 Comando: d1000001000000001000PLU 1
+Función SendCmd Status: 4 Error: 0 Comando: f01000000010000
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO`S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V-15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Ref. Interna: 0000000001
+Función SendCmd Status: 0 Error: 0 Comando: i06Factura Asociada: 001234
+Función SendCmd Status: 0 Error: 0 Comando: i07Fecha Fac. Asc. 26/11/2012
+Función SendCmd Status: 0 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B1234567
+Función SendCmd Status: 5 Error: 0 Comando: d1000001000000001000PLU 1
+Función SendCmd Status: 4 Error: 0 Comando: f01000000010000
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 0 Error: 0 Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 0 Error: 0 Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 0 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+Función SendCmd Status: 5 Error: 0 Comando: d!0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: f01000000001120
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 0 Error: 0 Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 0 Error: 0 Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 0 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+Función SendCmd Status: 5 Error: 0 Comando: d!0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: f01000000001120
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 0 Error: 0 Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 0 Error: 0 Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 0 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+Función SendCmd Status: 5 Error: 0 Comando: d!0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: f01000000001120
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: nananananananananaananananan RUESGA SUR SECTO
+Función SendCmd Status: 0 Error: 0 Comando: i06R 7VEREDA ONCE CASA NUMERO CINCO BARQUISIMETO ESTADO LAR
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000011
+Función SendCmd Status: 4 Error: 0 Comando: @COOPERATIVA LOS SINTECHOS DE SANTA ROSA
+Función SendCmd Status: 4 Error: 0 Comando: @ DEL TUY BARQUISIMETO ESTADO LARA
+Función SendCmd Status: 5 Error: 0 Comando: !000000089300001000
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: nananananananananaananananan RUESGA SUR SECTO
+Función SendCmd Status: 0 Error: 0 Comando: i06R 7VEREDA ONCE CASA NUMERO CINCO BARQUISIMETO ESTADO LAR
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000011
+Función SendCmd Status: 4 Error: 0 Comando: @COOPERATIVA LOS SINTECHOS DE SANTA ROSA
+Función SendCmd Status: 4 Error: 0 Comando: @ DEL TUY BARQUISIMETO ESTADO LARA
+Función SendCmd Status: 5 Error: 0 Comando: !000000089300001000
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:N&M SUMINISTRO´S, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: GREGORI ANDERSON ARRIECHE GARCIA SILVA DE LOS 
+Función SendCmd Status: 0 Error: 0 Comando: i03COJELONES 
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V15094257
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: nananananananananaananananan RUESGA SUR SECTO
+Función SendCmd Status: 0 Error: 0 Comando: i06R 7VEREDA ONCE CASA NUMERO CINCO BARQUISIMETO ESTADO LAR
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000011
+Función SendCmd Status: 4 Error: 0 Comando: @COOPERATIVA LOS SINTECHOS DE SANTA ROSA
+Función SendCmd Status: 4 Error: 0 Comando: @ DEL TUY BARQUISIMETO ESTADO LARA
+Función SendCmd Status: 5 Error: 0 Comando: !000000089300001000
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 0 Error: 0 Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 0 Error: 0 Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 0 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+Función SendCmd Status: 5 Error: 0 Comando: d!0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: f11000000001120
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
+------------------------------
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 0 Error: 0 Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 0 Error: 0 Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 0 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+Función SendCmd Status: 5 Error: 0 Comando: d!0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: f11000000001120
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 0 Error: 0 Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 0 Error: 0 Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 0 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+Función SendCmd Status: 5 Error: 0 Comando: d!0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: f11000000001120
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: d!0000001000000010001/Manzana
+Función SendCmd Status: 5 Error: 0
+Función SendCmd Comando: f11000000001120
+Función SendCmd Status: 4 Error: 0
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: d!0000001000000010001/Manzana
+Función SendCmd Status: 5 Error: 0
+Función SendCmd Comando: f11000000001120
+Función SendCmd Status: 4 Error: 0
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: d!0000001000000010001/Manzana
+Función SendCmd Status: 5 Error: 0
+Función SendCmd Comando: f11000000001120
+Función SendCmd Status: 4 Error: 0
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: d!0000001000000010001/Manzana
+Función SendCmd Status: 5 Error: 0
+Función SendCmd Comando: f11000000001120
+Función SendCmd Status: 4 Error: 0
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: d!0000001000000010001/Manzana
+Función SendCmd Status: 5 Error: 0
+Función SendCmd Comando: f11000000001120
+Función SendCmd Status: 4 Error: 0
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+Función SendCmd Status: 0 Error: 0
+Función SendCmd Comando: d!0000001000000010001/Manzana
+Función SendCmd Status: 5 Error: 0
+Función SendCmd Comando: f11000000001120
+Función SendCmd Status: 4 Error: 0
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
+------------------------------
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 0 Error: 0 Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 0 Error: 0 Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 0 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+Función SendCmd Status: 5 Error: 0 Comando: d!0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: f11000000001120
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Cabudare Estado Lara
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 02127857086
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000028
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001120
+
+Función SendFileCmd  File: archivoF.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Cabudare Estado Lara
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 02127857086
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000028
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001120
+
+Función SendFileCmd  File: archivoF.dat Status: 4 Error: 0
+Función SendCmd Status: 4 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 4 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 4 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 4 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 4 Error: 0 Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 4 Error: 0 Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 4 Error: 0 Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 4 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+Función SendCmd Status: 4 Error: 0 Comando: d!0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: f11000000001120
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Cabudare Estado Lara
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 02127857086
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000028
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001120
+
+Función SendFileCmd  File: archivoF.dat Status: 4 Error: 0
+Función SendCmd Status: 4 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 4 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 4 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 4 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 4 Error: 0 Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 4 Error: 0 Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 4 Error: 0 Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 4 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+Función SendCmd Status: 4 Error: 0 Comando: d!0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: f11000000001120
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Cabudare Estado Lara
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 02127857086
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000028
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001120
+
+Función SendFileCmd  File: archivoF.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Cabudare Estado Lara
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 02127857086
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000028
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001120
+
+Función SendFileCmd  File: archivoF.dat Status: 4 Error: 0
+Función SendCmd Status: 4 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 4 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 4 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 4 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 4 Error: 0 Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 4 Error: 0 Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 4 Error: 0 Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 4 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+Función SendCmd Status: 4 Error: 0 Comando: d!0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: f11000000001120
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Cabudare Estado Lara
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 02127857086
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000028
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001120
+
+Función SendFileCmd  File: archivoF.dat Status: 4 Error: 0
+Función SendCmd Status: 4 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 4 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 4 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 4 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 4 Error: 0 Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 4 Error: 0 Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 4 Error: 0 Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 4 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+Función SendCmd Status: 4 Error: 0 Comando: d!0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: f11000000001120
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Cabudare Estado Lara
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 02127857086
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000028
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001120
+
+Función SendFileCmd  File: archivoF.dat Status: 4 Error: 0
+Función SendCmd Status: 4 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 4 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 4 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 4 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 4 Error: 0 Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 4 Error: 0 Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 4 Error: 0 Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 4 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+Función SendCmd Status: 4 Error: 0 Comando: d!0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: f11000000001120
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Cabudare Estado Lara
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 02127857086
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000028
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001120
+
+Función SendFileCmd  File: archivoF.dat Status: 4 Error: 0
+Función SendCmd Status: 4 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 4 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 4 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 4 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 4 Error: 0 Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 4 Error: 0 Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 4 Error: 0 Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 4 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+Función SendCmd Status: 4 Error: 0 Comando: d!0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: f11000000001120
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Cabudare Estado Lara
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 02127857086
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000028
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001120
+
+Función SendFileCmd  File: archivoF.dat Status: 4 Error: 0
+Función SendCmd Status: 4 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 4 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 4 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 4 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 4 Error: 0 Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 4 Error: 0 Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 4 Error: 0 Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 4 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+Función SendCmd Status: 4 Error: 0 Comando: d!0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: f11000000001120
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Cabudare Estado Lara
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 02127857086
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000028
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001120
+
+Función SendFileCmd  File: archivoF.dat Status: 4 Error: 0
+Función SendCmd Status: 4 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 4 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 4 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 4 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 4 Error: 0 Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 4 Error: 0 Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 4 Error: 0 Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 4 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+Función SendCmd Status: 4 Error: 0 Comando: d!0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: f11000000001120
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
+------------------------------
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Cabudare Estado Lara
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 02127857086
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000028
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001120
+
+Función SendFileCmd  File: archivoF.dat Status: 4 Error: 0
+Función SendCmd Status: 4 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 4 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 4 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 4 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 4 Error: 0 Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 4 Error: 0 Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 4 Error: 0 Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 4 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Cabudare Estado Lara
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 02127857086
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000028
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001120
+
+Función SendFileCmd  File: archivoF.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Cabudare Estado Lara
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 02127857086
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000028
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001120
+
+Función SendFileCmd  File: archivoF.dat Status: 4 Error: 0
+Función SendCmd Status: 4 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 4 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 4 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 4 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 4 Error: 0 Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 4 Error: 0 Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 4 Error: 0 Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 4 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+Función SendCmd Status: 4 Error: 0 Comando: d!0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: f11000000001120
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Cabudare Estado Lara
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 02127857086
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000028
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001120
+
+Función SendFileCmd  File: archivoF.dat Status: 4 Error: 0
+Función SendCmd Status: 4 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 4 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 4 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 4 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 4 Error: 0 Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 4 Error: 0 Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 4 Error: 0 Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 4 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+Función SendCmd Status: 4 Error: 0 Comando: d!0000001000000010001/Manzana
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Cabudare Estado Lara
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 02127857086
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000028
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001120
+
+Función SendFileCmd  File: archivoF.dat Status: 4 Error: 0
+Función SendCmd Status: 4 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 4 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 4 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 4 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 4 Error: 0 Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 4 Error: 0 Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 4 Error: 0 Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 4 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Cabudare Estado Lara
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 02127857086
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000028
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001120
+
+Función SendFileCmd  File: archivoF.dat Status: 4 Error: 0
+Función SendCmd Status: 4 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 4 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 4 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 4 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 4 Error: 0 Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 4 Error: 0 Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 4 Error: 0 Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 4 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+------------------------------
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Cabudare Estado Lara
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 02127857086
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000028
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001120
+
+Función SendFileCmd  File: archivoF.dat Status: 4 Error: 0
+Función SendCmd Status: 4 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 4 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 4 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 4 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 4 Error: 0 Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 4 Error: 0 Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 4 Error: 0 Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 4 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+Función SendCmd Status: 4 Error: 0 Comando: d!0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: f11000000001120
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Cabudare Estado Lara
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 02127857086
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000028
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001120
+
+Función SendFileCmd  File: archivoF.dat Status: 4 Error: 0
+Función SendCmd Status: 4 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 4 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 4 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 4 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 4 Error: 0 Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 4 Error: 0 Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 4 Error: 0 Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 4 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+Función SendCmd Status: 4 Error: 0 Comando: d!0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: f11000000001120
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Cabudare Estado Lara
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 02127857086
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000028
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001120
+
+Función SendFileCmd  File: archivoF.dat Status: 4 Error: 0
+Función SendCmd Status: 4 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 4 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 4 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 4 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 4 Error: 0 Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 4 Error: 0 Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 4 Error: 0 Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 4 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+Función SendCmd Status: 4 Error: 0 Comando: d!0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: f11000000001120
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Cabudare Estado Lara
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 02127857086
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000028
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !0000001000000010001/Manzana
+------------------------------
+Función OpenFpctrl lpPortName: COM3
+Función SendCmd Status: 0 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 0 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 0 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 0 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 0 Error: 0 Comando: i05Direccion: Cabudare Estado Lara
+Función SendCmd Status: 0 Error: 0 Comando: i06Telefono: 02127857086
+Función SendCmd Status: 0 Error: 0 Comando: i07Ref. Interna: 0000000028
+Función SendCmd Status: 0 Error: 0 Comando: i08Usuario: 00
+Función SendCmd Status: 5 Error: 0 Comando: !0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: 201000000001120
+
+Función SendFileCmd  File: archivoF.dat Status: 4 Error: 0
+Función SendCmd Status: 4 Error: 0 Comando: i01Emitido Por:LA ZONA DEL HIERRO, C.A
+Función SendCmd Status: 4 Error: 0 Comando: i02Raz/Soc.: Andrea Romero Ortega de la Santisima Trinidad 
+Función SendCmd Status: 4 Error: 0 Comando: i03y Tobago Blanco Paez Perez Moreno de Marchan
+Función SendCmd Status: 4 Error: 0 Comando: i04Cedula/Rif: V18863489
+Función SendCmd Status: 4 Error: 0 Comando: i05Ref. Interna: 0000000003
+Función SendCmd Status: 4 Error: 0 Comando: i06Factura Asociada: 0000000002
+Función SendCmd Status: 4 Error: 0 Comando: i07Fecha Fac. Asc.   03/12/2012
+Función SendCmd Status: 4 Error: 0 Comando: i08Ser. Imp. Fac. Asc. Z1B0090464
+Función SendCmd Status: 5 Error: 0 Comando: d!0000001000000010001/Manzana
+Función SendCmd Status: 4 Error: 0 Comando: f11000000001120
+
+Función SendFileCmd  File: archivoNC.dat Status: 4 Error: 0
